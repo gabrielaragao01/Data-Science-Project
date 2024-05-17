@@ -7,10 +7,10 @@
 O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para extrair, tratar e analisar uma base de dados, apresentando os resultados de forma clara e concisa.
 
 ## Como rodar :arrow_forward:
-- Utilize o compilador Nasm x86(32bits) de sua preferência;
-- Sugestão de compilador online: http://www.tutorialspoint.com/compile_assembly_online.php;
-- Execute o programa e verifique a saída do Terminal.
-- Link de visualização: https://www.mathsisfun.com/games/towerofhanoi.html
+- Clone esse repositório na sua máquina
+- Abra o google colab ou outro de sua preferência
+- Abra o notebook com projeto clonado
+- Visualize nossas técnicas resultados 
 
 ## Contribuidores 🤓
  - Gabriel Aragão 
