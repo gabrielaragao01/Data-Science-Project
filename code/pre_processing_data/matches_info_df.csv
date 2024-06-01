@@ -1,381 +1,381 @@
-,B365H,home_team_name,B365D,away_team_name,B365A,Pre-Match PPG (Home),Pre-Match PPG (Away),home_team_goal_count,away_team_goal_count,home_team_goal_count_half_time,away_team_goal_count_half_time,home_team_goal_timings,away_team_goal_timings,home_team_shots,home_team_shots_on_target,away_team_shots,away_team_shots_on_target,season_part,day_or_night
-0,1.57,Manchester United,3.9,Leicester City,7.5,0.0,0.0,2,1,1,0,"3,83",90'2,8,7,8,5,first,Night
-1,3.9,Newcastle United,3.5,Tottenham Hotspur,2.04,0.0,0.0,1,2,1,2,11,"8,18",11,3,13,6,first,Day
-2,1.9,AFC Bournemouth,3.6,Cardiff City,4.5,0.0,0.0,2,0,1,0,"24,90'1",,11,5,7,2,first,Day
-3,2.5,Fulham,3.4,Crystal Palace,3.0,0.0,0.0,0,2,0,1,,"41,79",11,7,11,11,first,Day
-4,6.5,Huddersfield Town,4.0,Chelsea,1.61,0.0,0.0,0,3,0,2,,"34,45,80",6,2,8,5,first,Day
-5,2.37,Watford,3.2,Brighton & Hove Albion,3.4,0.0,0.0,2,0,1,0,"35,54",,15,6,6,0,first,Day
-6,2.37,Wolverhampton Wanderers,3.3,Everton,3.3,0.0,0.0,2,2,1,1,"44,80","17,67",10,5,9,6,first,Day
-7,1.25,Liverpool,6.5,West Ham United,14.0,0.0,0.0,4,0,2,0,"19,45'2,53,88",,16,9,5,3,first,Day
-8,1.85,Southampton,3.5,Burnley,5.0,0.0,0.0,0,0,0,0,,,10,4,13,7,first,Day
-9,4.0,Arsenal,3.8,Manchester City,1.95,0.0,0.0,0,2,0,1,,"14,64",8,4,14,9,first,Day
-10,3.25,Cardiff City,3.1,Newcastle United,2.54,0.0,0.0,0,0,0,0,,,8,2,8,7,first,Day
-11,1.9,Everton,3.5,Southampton,4.75,0.0,0.0,2,1,2,0,"15,31",54,11,8,11,5,first,Day
-12,2.04,Leicester City,3.5,Wolverhampton Wanderers,3.9,0.0,0.0,2,0,2,0,"29,45",,5,3,11,4,first,Day
-13,1.28,Tottenham Hotspur,6.0,Fulham,12.0,0.0,0.0,3,1,1,0,"43,74,77",52,22,12,9,4,first,Day
-14,2.1,West Ham United,3.6,AFC Bournemouth,3.7,0.0,0.0,1,2,1,0,33,"60,66",9,6,9,6,first,Day
-15,1.8,Chelsea,4.0,Arsenal,4.5,0.0,0.0,3,2,2,2,"9,20,81","37,41",19,12,13,7,first,Day
-16,2.45,Burnley,3.1,Watford,3.4,0.0,0.0,1,3,1,1,6,"3,48,51",7,4,7,7,first,Day
-17,1.1,Manchester City,13.0,Huddersfield Town,26.0,0.0,0.0,6,1,3,1,"25,31,35,48,75,84",43,24,15,4,2,first,Day
-18,5.5,Brighton & Hove Albion,3.6,Manchester United,1.75,0.0,0.0,3,2,3,1,"25,27,44","34,90'5",7,4,8,4,first,Day
-19,7.0,Crystal Palace,5.0,Liverpool,1.44,0.0,0.0,0,2,0,1,,"45,90'3",8,3,11,7,first,Night
-20,11.0,Wolverhampton Wanderers,6.5,Manchester City,1.28,1.0,3.0,1,1,0,0,57,69,9,3,13,7,first,Day
-21,2.62,AFC Bournemouth,3.6,Everton,2.75,3.0,1.0,2,2,0,0,"75,79","56,66",16,6,9,4,first,Day
-22,1.36,Arsenal,5.5,West Ham United,9.0,0.0,0.0,3,1,1,1,"30,70,90'2",25,13,11,11,6,first,Day
-23,2.37,Huddersfield Town,3.0,Cardiff City,3.7,0.0,0.0,0,0,0,0,,,4,2,11,5,first,Day
-24,2.45,Southampton,3.2,Leicester City,3.25,1.0,0.0,1,2,0,0,52,"56,90'2",10,6,9,6,first,Day
-25,1.16,Liverpool,8.5,Brighton & Hove Albion,19.0,3.0,0.0,1,0,1,0,23,,16,9,5,3,first,Day
-26,2.6,Watford,3.25,Crystal Palace,3.0,3.0,3.0,2,1,0,0,"53,71",78,10,6,9,4,first,Day
-27,2.0,Fulham,3.4,Burnley,4.33,0.0,1.0,4,2,3,2,"4,36,38,83","10,41",23,13,8,3,first,Day
-28,5.75,Newcastle United,4.0,Chelsea,1.66,0.0,3.0,1,2,0,0,83,"76,87",5,3,11,4,first,Day
-29,2.62,Manchester United,3.3,Tottenham Hotspur,2.9,3.0,3.0,0,3,0,0,,"50,52,84",18,6,8,6,first,Night
-30,7.5,Leicester City,5.0,Liverpool,1.44,3.0,3.0,1,2,0,2,63,"10,45",9,6,9,5,first,Day
-31,2.3,Brighton & Hove Albion,3.4,Fulham,3.4,3.0,0.0,2,2,0,1,"67,84","43,62",13,6,9,6,first,Day
-32,1.3,Chelsea,6.0,AFC Bournemouth,11.0,3.0,3.0,2,0,0,0,"72,85",,13,7,8,2,first,Day
-33,2.0,Crystal Palace,3.5,Southampton,4.2,0.0,0.0,0,2,0,0,,"47,90'2",14,7,13,7,first,Day
-34,1.53,Everton,4.2,Huddersfield Town,7.5,3.0,0.0,1,1,1,1,36,34,10,2,8,7,first,Day
-35,2.6,West Ham United,3.4,Wolverhampton Wanderers,2.87,0.0,0.0,0,1,0,0,,90'3,9,4,14,7,first,Day
-36,1.11,Manchester City,11.0,Newcastle United,26.0,3.0,1.0,2,1,1,1,"8,52",30,18,9,4,3,first,Day
-37,6.5,Cardiff City,4.33,Arsenal,1.57,1.0,0.0,2,3,1,1,"45'2,70","11,62,81",14,4,16,12,first,Day
-38,6.0,Burnley,3.75,Manchester United,1.7,0.0,0.0,0,2,0,2,,"27,44",9,3,16,10,first,Day
-39,5.5,Watford,4.2,Tottenham Hotspur,1.64,3.0,3.0,2,1,0,0,"69,76",53,7,4,10,3,first,Day
-40,3.0,Tottenham Hotspur,3.6,Liverpool,2.4,3.0,3.0,1,2,0,1,90'3,"39,54",9,4,16,11,first,Day
-41,2.45,AFC Bournemouth,3.5,Leicester City,3.0,2.0,1.5,4,2,3,0,"19,37,41,81","88,89",8,6,13,9,first,Day
-42,1.18,Chelsea,8.0,Cardiff City,19.0,3.0,0.5,4,1,2,1,"37,43,80,83",16,16,8,7,3,first,Day
-43,3.3,Huddersfield Town,3.1,Crystal Palace,2.5,0.5,1.5,0,1,0,1,,38,12,3,5,3,first,Day
-44,1.12,Manchester City,10.0,Fulham,26.0,3.0,0.5,3,0,2,0,"2,21,47",,18,10,9,4,first,Day
-45,4.2,Newcastle United,3.8,Arsenal,1.9,0.0,1.5,1,2,0,0,90'1,"49,58",3,3,8,3,first,Day
-46,4.33,Watford,3.6,Manchester United,1.95,3.0,1.5,1,2,0,2,65,"35,38",9,6,8,7,first,Day
-47,1.75,Wolverhampton Wanderers,3.6,Burnley,5.75,1.0,0.5,1,0,0,0,61,,21,8,8,3,first,Day
-48,2.0,Everton,3.75,West Ham United,3.9,2.0,0.0,1,3,1,2,45'2,"11,31,61",11,5,7,5,first,Day
-49,2.1,Southampton,3.4,Brighton & Hove Albion,3.9,0.5,0.0,2,2,1,0,"35,65","67,90",12,6,10,5,first,Night
-50,2.54,Fulham,3.5,Watford,2.9,1.5,3.0,1,1,0,1,78,2,10,4,11,7,first,Day
-51,3.0,Burnley,3.4,AFC Bournemouth,2.5,0.0,1.5,4,0,2,0,"39,41,83,88",,9,6,11,6,first,Day
-52,23.0,Cardiff City,8.0,Manchester City,1.16,0.5,2.0,0,5,0,3,,"32,35,44,67,89",3,3,15,11,first,Day
-53,2.14,Crystal Palace,3.4,Newcastle United,3.75,0.0,0.5,0,0,0,0,,,12,5,7,4,first,Day
-54,1.61,Leicester City,4.0,Huddersfield Town,6.5,1.5,0.5,3,1,1,1,"19,66,75",5,16,9,8,3,first,Day
-55,1.2,Liverpool,7.5,Southampton,17.0,3.0,1.5,3,0,3,0,"10,21,45'3",,10,5,3,2,first,Day
-56,1.57,Manchester United,4.33,Wolverhampton Wanderers,6.5,1.5,1.5,1,1,1,0,18,53,10,7,12,9,first,Day
-57,5.0,Brighton & Hove Albion,4.0,Tottenham Hotspur,1.75,2.0,2.0,1,2,0,1,90'3,"42,76",8,5,13,8,first,Day
-58,6.0,West Ham United,4.5,Chelsea,1.57,0.0,3.0,0,0,0,0,,,6,2,13,7,first,Day
-59,1.44,Arsenal,5.0,Everton,7.5,1.5,1.0,2,0,0,0,"56,59",,7,6,9,7,first,Day
-60,4.5,West Ham United,3.8,Manchester United,1.85,0.33,2.0,3,1,2,0,"5,43,74",71,8,4,6,5,first,Day
-61,1.44,Arsenal,5.1,Watford,7.0,2.0,2.0,2,0,0,0,"81,83",,9,3,13,6,first,Day
-62,1.75,Everton,4.2,Fulham,4.75,1.33,0.33,3,0,0,0,"56,66,89",,13,7,7,0,first,Day
-63,8.5,Huddersfield Town,4.5,Tottenham Hotspur,1.44,0.33,2.25,0,2,0,2,,"25,34",9,6,11,7,first,Day
-64,1.1,Manchester City,12.0,Brighton & Hove Albion,34.0,3.0,0.33,2,0,1,0,"29,65",,22,9,3,2,first,Day
-65,2.6,Newcastle United,3.3,Leicester City,3.0,0.0,1.0,0,2,0,1,,"30,73",6,2,10,6,first,Day
-66,1.8,Wolverhampton Wanderers,3.6,Southampton,5.25,1.67,1.0,2,0,0,0,"79,87",,13,7,11,7,first,Day
-67,2.8,Chelsea,3.6,Liverpool,2.54,3.0,3.0,1,1,1,0,25,89,9,5,13,7,first,Day
-68,2.62,Cardiff City,3.0,Burnley,3.2,0.33,0.33,1,2,0,0,60,"51,70",15,6,4,3,first,Day
-69,2.25,AFC Bournemouth,3.5,Crystal Palace,3.4,2.33,2.0,2,1,1,0,"5,87",55,10,6,7,3,first,Night
-70,2.7,Brighton & Hove Albion,3.3,West Ham United,2.87,1.33,1.0,1,0,1,0,25,,9,5,12,5,first,Night
-71,2.14,Burnley,3.1,Huddersfield Town,4.2,1.0,0.33,1,1,1,0,20,66,4,4,10,3,first,Day
-72,3.0,Crystal Palace,3.2,Wolverhampton Wanderers,2.62,0.33,1.33,0,1,0,0,,56,9,5,8,3,first,Day
-73,2.2,Leicester City,3.4,Everton,3.6,2.0,0.67,1,2,1,1,40,"7,77",8,3,14,9,first,Day
-74,1.22,Tottenham Hotspur,7.0,Cardiff City,15.0,1.5,0.33,1,0,1,0,8,,14,8,9,7,first,Day
-75,2.14,Watford,3.6,AFC Bournemouth,3.5,2.25,1.0,0,4,0,3,,"14,33,45,47",5,3,11,8,first,Day
-76,1.44,Manchester United,4.5,Newcastle United,9.0,1.33,0.67,3,2,0,2,"70,76,90","7,10",16,11,14,9,first,Day
-77,5.25,Fulham,4.33,Arsenal,1.66,1.33,2.0,1,5,1,1,44,"29,49,67,79,90'1",13,5,10,8,first,Day
-78,6.0,Southampton,4.1,Chelsea,1.61,0.67,2.33,0,3,0,1,,"30,57,90'3",13,7,10,7,first,Day
-79,2.54,Liverpool,3.6,Manchester City,2.8,3.0,2.33,0,0,0,0,,,7,3,6,3,first,Day
-80,1.75,Chelsea,3.8,Manchester United,5.25,2.5,1.5,2,2,1,0,"21,90'6","55,73",15,7,8,5,first,Day
-81,2.04,AFC Bournemouth,3.7,Southampton,3.75,2.5,0.75,0,0,0,0,,,8,3,7,5,first,Day
-82,2.5,Cardiff City,3.5,Fulham,2.95,0.25,0.25,4,2,2,2,"15,20,65,87","11,34",16,6,8,5,first,Day
-83,1.08,Manchester City,13.0,Burnley,34.0,3.0,1.0,5,0,1,0,"17,54,56,83,90",,17,11,5,0,first,Day
-84,2.2,Newcastle United,3.25,Brighton & Hove Albion,3.8,0.0,0.25,0,1,0,1,,29,19,7,7,3,first,Day
-85,4.1,West Ham United,3.9,Tottenham Hotspur,1.9,1.0,2.4,0,1,0,1,,44,12,5,7,3,first,Day
-86,1.75,Wolverhampton Wanderers,3.75,Watford,5.25,2.0,1.33,0,2,0,2,,"20,21",8,2,6,4,first,Day
-87,11.0,Huddersfield Town,5.5,Liverpool,1.33,0.25,2.5,0,1,0,1,,24,8,2,7,3,first,Day
-88,1.85,Everton,3.6,Crystal Palace,4.75,1.75,1.5,2,0,0,0,"87,89",,14,5,8,4,first,Day
-89,1.53,Arsenal,4.5,Leicester City,6.5,2.25,1.5,3,1,1,1,"45,63,66",31,18,7,6,3,first,Night
-90,3.2,Brighton & Hove Albion,3.2,Wolverhampton Wanderers,2.5,1.75,1.75,1,0,0,0,48,,7,2,16,8,first,Day
-91,2.9,Fulham,3.75,AFC Bournemouth,2.4,1.0,1.5,0,3,0,1,,"14,72,85",11,2,12,6,first,Day
-92,1.11,Liverpool,11.0,Cardiff City,26.0,2.5,0.25,4,1,1,0,"10,66,84,87",77,14,8,3,2,first,Day
-93,2.1,Southampton,3.4,Newcastle United,3.9,0.5,0.5,0,0,0,0,,,18,5,5,0,first,Day
-94,1.75,Watford,3.75,Huddersfield Town,5.25,1.8,0.5,3,0,2,0,"10,19,80",,13,7,12,8,first,Day
-95,2.1,Leicester City,3.5,West Ham United,3.8,1.5,0.75,1,1,0,1,89,30,19,8,10,4,first,Day
-96,11.0,Burnley,5.0,Chelsea,1.36,1.0,2.5,0,4,0,1,,"22,57,62,90'2",6,2,18,9,first,Day
-97,4.75,Crystal Palace,4.1,Arsenal,1.75,0.25,2.25,2,2,1,0,"45'1,83","51,56",15,4,6,3,first,Day
-98,1.72,Manchester United,3.9,Everton,5.25,1.75,1.25,2,1,1,0,"27,49",77,14,11,14,7,first,Day
-99,4.75,Tottenham Hotspur,4.1,Manchester City,1.75,2.0,2.0,0,1,0,1,,6,5,2,9,7,first,Night
-100,3.6,AFC Bournemouth,3.7,Manchester United,2.1,2.2,1.4,1,2,1,1,11,"35,90'2",11,8,15,9,first,Day
-101,3.8,Cardiff City,3.4,Leicester City,2.14,0.8,1.2,0,1,0,0,,55,11,3,10,6,first,Day
-102,1.61,Everton,4.0,Brighton & Hove Albion,6.5,2.0,0.8,3,1,1,1,"26,50,77",33,13,4,4,4,first,Day
-103,2.75,Newcastle United,3.25,Watford,2.8,0.0,1.75,1,0,0,0,65,,7,3,12,2,first,Day
-104,1.75,West Ham United,3.75,Burnley,5.25,0.8,0.8,4,2,1,1,"10,68,84,90'2","45,77",17,11,5,4,first,Day
-105,3.9,Arsenal,3.9,Liverpool,1.95,2.4,2.6,1,1,0,0,82,61,10,5,10,5,first,Night
-106,3.1,Wolverhampton Wanderers,3.4,Tottenham Hotspur,2.45,1.6,2.5,2,3,0,2,"68,79","27,30,61",12,8,10,9,first,Night
-107,1.11,Manchester City,11.0,Southampton,29.0,3.0,0.8,6,1,4,1,"6,12,18,45'2,67,90'1",29,14,9,12,7,first,Day
-108,1.25,Chelsea,6.75,Crystal Palace,13.0,2.2,1.2,3,1,1,0,"32,65,70",53,12,7,5,3,first,Day
-109,2.3,Huddersfield Town,3.5,Fulham,3.3,0.2,0.2,1,0,1,0,29,,9,3,5,2,first,Night
-110,2.6,Cardiff City,3.1,Brighton & Hove Albion,3.1,0.67,0.67,2,1,1,1,"28,90",6,16,7,6,4,first,Day
-111,3.4,Huddersfield Town,3.25,West Ham United,2.35,0.67,0.8,1,1,1,0,6,74,15,8,10,6,first,Day
-112,1.5,Leicester City,4.33,Burnley,8.0,1.4,0.67,0,0,0,0,,,15,6,5,2,first,Day
-113,2.9,Newcastle United,3.4,AFC Bournemouth,2.6,0.5,1.8,2,1,2,1,"7,39",45'6,15,7,10,5,first,Day
-114,2.5,Southampton,3.3,Watford,3.1,0.6,1.4,1,1,1,0,20,82,11,5,10,7,first,Day
-115,4.5,Crystal Palace,3.75,Tottenham Hotspur,1.85,0.4,2.57,0,1,0,0,,66,11,6,9,3,first,Night
-116,1.11,Liverpool,11.0,Fulham,26.0,2.6,0.17,2,0,1,0,"41,53",,15,8,8,4,first,Day
-117,1.4,Chelsea,5.25,Everton,8.5,2.33,1.0,0,0,0,0,,,12,5,5,2,first,Day
-118,1.66,Arsenal,4.2,Wolverhampton Wanderers,5.25,2.17,1.4,1,1,0,1,86,13,7,4,12,6,first,Day
-119,1.4,Manchester City,5.25,Manchester United,8.5,3.0,1.67,3,1,1,0,"12,48,86",58,12,6,3,2,first,Day
-120,2.9,Brighton & Hove Albion,3.4,Leicester City,2.6,2.0,1.5,1,1,1,0,15,79,12,4,7,4,first,Day
-121,1.4,Everton,5.0,Cardiff City,9.0,2.17,0.2,1,0,0,0,59,,14,9,6,2,mid,Day
-122,2.62,Fulham,3.5,Southampton,2.8,0.8,0.67,3,2,2,1,"33,43,63","18,53",9,6,15,9,mid,Day
-123,1.4,Manchester United,5.25,Crystal Palace,8.0,2.0,1.0,0,0,0,0,,,10,6,12,3,mid,Day
-124,6.5,Watford,4.33,Liverpool,1.55,2.0,2.33,0,3,0,0,,"67,76,89",6,2,11,8,mid,Day
-125,13.0,West Ham United,6.5,Manchester City,1.25,1.17,2.2,0,4,0,3,,"11,19,34,90'3",7,2,9,7,mid,Day
-126,2.8,Tottenham Hotspur,3.5,Chelsea,2.6,1.5,2.6,3,1,2,0,"8,16,54",85,16,10,8,3,mid,Night
-127,3.5,AFC Bournemouth,3.75,Arsenal,1.95,1.83,2.0,1,2,1,1,45'1,"30,67",8,6,16,5,mid,Day
-128,1.5,Wolverhampton Wanderers,4.33,Huddersfield Town,8.0,1.33,0.4,0,2,0,1,,"6,74",10,4,11,7,mid,Day
-129,2.9,Burnley,3.2,Newcastle United,2.75,0.8,0.6,1,2,1,2,40,"4,23",13,5,12,4,mid,Night
-130,3.8,Cardiff City,3.25,Wolverhampton Wanderers,2.2,1.0,1.33,2,1,0,1,"65,77",18,12,4,14,5,mid,Night
-131,1.61,Crystal Palace,3.9,Burnley,6.5,0.33,0.71,2,0,1,0,"16,77",,21,10,3,0,mid,Day
-132,2.5,Huddersfield Town,3.0,Brighton & Hove Albion,3.4,0.71,0.57,1,2,1,1,1,"45'4,69",6,3,10,7,mid,Day
-133,2.25,Leicester City,3.3,Watford,3.6,1.33,1.33,2,0,2,0,"12,23",,7,4,7,0,mid,Day
-134,1.11,Manchester City,11.0,AFC Bournemouth,26.0,3.0,1.5,3,1,1,1,"16,57,79",44,12,7,4,2,mid,Day
-135,2.5,Newcastle United,3.3,West Ham United,3.1,0.86,0.83,0,3,0,1,,"11,63,90'3",12,5,8,5,mid,Day
-136,4.33,Southampton,3.6,Manchester United,1.95,0.67,1.43,2,2,2,2,"13,20","33,39",13,7,10,6,mid,Night
-137,1.18,Chelsea,8.0,Fulham,17.0,2.14,0.14,2,0,1,0,"4,82",,11,10,9,5,mid,Day
-138,2.62,Arsenal,3.6,Tottenham Hotspur,2.75,2.0,2.63,4,2,1,2,"10,56,74,77","30,34",19,8,10,7,mid,Day
-139,1.4,Liverpool,5.0,Everton,9.0,2.67,1.0,1,0,0,0,90'6,,14,4,8,4,mid,Day
-140,1.66,AFC Bournemouth,3.8,Huddersfield Town,6.0,1.57,0.83,2,1,2,1,"5,22",38,7,3,17,7,mid,Night
-141,3.0,Brighton & Hove Albion,3.1,Crystal Palace,2.7,1.83,1.0,3,1,3,0,"24,31,45'4",81,7,4,14,6,mid,Night
-142,1.66,West Ham United,4.0,Cardiff City,5.75,1.0,0.17,3,1,0,0,"49,54,61",90'5,15,12,8,6,mid,Night
-143,11.0,Watford,6.0,Manchester City,1.3,1.71,2.33,1,2,0,1,85,"40,51",10,8,13,8,mid,Night
-144,14.0,Burnley,5.75,Liverpool,1.28,0.67,2.43,1,3,0,0,54,"62,69,90'1",10,7,15,13,mid,Night
-145,3.0,Fulham,3.5,Leicester City,2.45,1.17,1.43,1,1,1,0,42,74,18,8,12,6,mid,Night
-146,5.0,Wolverhampton Wanderers,3.75,Chelsea,1.8,1.14,2.17,2,1,0,1,"59,63",18,6,3,14,4,mid,Night
-147,1.6,Everton,4.0,Newcastle United,6.5,2.29,1.0,1,1,1,1,38,19,12,4,9,6,mid,Night
-148,2.45,Manchester United,3.5,Arsenal,3.0,1.83,2.17,2,2,1,1,"30,69","26,68",8,8,7,5,mid,Night
-149,1.36,Tottenham Hotspur,5.25,Southampton,9.5,1.8,0.57,3,1,1,0,"9,51,55",90'3,12,9,15,6,mid,Night
-150,5.75,AFC Bournemouth,4.5,Liverpool,1.6,1.75,2.5,0,4,0,1,,"25,48,68,77",6,3,9,5,mid,Day
-151,1.28,Arsenal,6.0,Huddersfield Town,12.0,2.13,0.71,1,0,0,0,83,,11,3,6,0,mid,Day
-152,2.9,Burnley,3.2,Brighton & Hove Albion,2.75,0.57,0.88,1,0,1,0,40,,9,5,14,2,mid,Day
-153,2.9,Cardiff City,3.25,Southampton,2.7,1.25,0.5,1,0,0,0,74,,13,5,8,2,mid,Day
-154,1.33,Manchester United,5.75,Fulham,10.0,1.71,0.13,4,1,3,0,"13,28,42,82",67,18,12,9,5,mid,Day
-155,2.3,West Ham United,3.4,Crystal Palace,3.4,1.25,0.88,3,2,0,1,"48,62,65","6,76",12,7,7,5,mid,Day
-156,4.0,Chelsea,3.8,Manchester City,1.95,2.25,2.43,2,0,1,0,"45,78",,7,6,11,5,mid,Night
-157,3.8,Leicester City,3.75,Tottenham Hotspur,2.0,1.57,2.33,0,2,0,1,,"45'1,58",9,4,7,3,mid,Night
-158,2.9,Newcastle United,3.2,Wolverhampton Wanderers,2.7,0.75,1.14,1,2,1,1,23,"17,90'4",10,5,12,7,mid,Day
-159,1.8,Everton,3.75,Watford,5.0,2.13,1.14,2,2,1,0,"15,90'6","63,65",11,6,11,4,mid,Night
-160,1.22,Manchester City,7.5,Everton,13.0,3.0,0.86,3,1,1,0,"22,50,69",65,10,6,8,3,mid,Day
-161,2.62,Crystal Palace,3.2,Leicester City,3.0,0.71,1.38,1,0,1,0,39,,7,2,10,3,mid,Day
-162,2.6,Huddersfield Town,3.1,Newcastle United,3.1,0.63,1.0,0,1,0,0,,55,13,6,8,6,mid,Day
-163,1.18,Tottenham Hotspur,8.0,Burnley,19.0,2.0,0.63,1,0,0,0,90'1,,10,4,3,0,mid,Day
-164,1.64,Watford,3.9,Cardiff City,6.0,1.5,0.14,3,2,1,0,"16,52,68","80,82",15,9,8,4,mid,Day
-165,1.95,Wolverhampton Wanderers,3.6,AFC Bournemouth,4.33,1.38,1.29,2,0,1,0,"12,90'4",,8,5,9,4,mid,Day
-166,2.9,Fulham,3.6,West Ham United,2.5,1.14,1.14,0,2,0,2,,"17,29",14,5,6,4,mid,Night
-167,7.5,Brighton & Hove Albion,4.5,Chelsea,1.5,2.0,1.86,1,2,0,2,66,"17,33",6,3,8,4,mid,Day
-168,4.1,Southampton,3.9,Arsenal,1.9,0.71,2.0,3,2,2,1,"20,44,85","28,53",9,8,9,5,mid,Day
-169,1.57,Liverpool,4.5,Manchester United,6.0,2.71,1.38,3,1,1,1,"24,73,80",33,23,12,6,3,mid,Day
-170,7.0,Wolverhampton Wanderers,4.0,Liverpool,1.57,1.56,2.56,0,2,0,1,,"18,68",10,6,11,7,mid,Night
-171,1.25,Arsenal,6.5,Burnley,15.0,2.22,0.56,3,1,1,0,"14,48,90'1",63,8,7,6,3,mid,Day
-172,1.9,AFC Bournemouth,3.7,Brighton & Hove Albion,4.33,1.56,0.78,2,0,1,0,"21,77",,11,4,10,6,mid,Day
-173,1.33,Chelsea,5.5,Leicester City,11.0,2.33,1.22,0,1,0,0,,51,14,6,6,4,mid,Day
-174,3.1,Huddersfield Town,3.1,Southampton,2.6,0.56,0.44,1,3,0,2,58,"15,42,71",11,6,13,7,mid,Day
-175,1.14,Manchester City,10.0,Crystal Palace,21.0,3.0,0.78,2,3,1,2,"27,85","33,35,51",15,6,6,4,mid,Day
-176,2.0,Newcastle United,3.6,Fulham,4.0,0.67,0.11,0,0,0,0,,,6,0,3,3,mid,Day
-177,2.37,West Ham United,3.5,Watford,3.1,1.44,1.13,0,2,0,1,,"30,87",13,8,7,6,mid,Day
-178,6.5,Cardiff City,4.2,Manchester United,1.57,1.44,1.22,1,5,1,3,38,"3,29,41,57,90",9,4,14,10,mid,Night
-179,3.25,Everton,3.5,Tottenham Hotspur,2.3,2.0,2.4,2,6,1,3,"21,51","27,35,42,48,61,74",9,4,16,9,mid,Day
-180,3.25,Fulham,3.4,Wolverhampton Wanderers,2.37,1.0,1.38,1,1,0,0,74,85,11,6,13,6,mid,Day
-181,4.33,Burnley,3.5,Everton,1.95,0.88,0.75,1,5,1,3,36,"2,13,22,71,90'3",11,5,10,7,mid,Day
-182,1.66,Crystal Palace,4.0,Cardiff City,5.75,1.0,0.13,0,0,0,0,,,18,6,9,5,mid,Day
-183,9.5,Leicester City,5.25,Manchester City,1.36,1.38,2.13,2,1,1,1,"19,81",14,10,6,9,5,mid,Day
-184,1.16,Liverpool,8.5,Newcastle United,19.0,2.75,1.25,4,0,1,0,"11,47,79,85",,13,9,7,3,mid,Day
-185,1.25,Manchester United,6.5,Huddersfield Town,15.0,1.88,0.63,3,1,1,0,"28,64,78",88,13,11,10,3,mid,Day
-186,1.36,Tottenham Hotspur,5.5,AFC Bournemouth,9.0,2.14,1.13,5,0,3,0,"16,23,35,61,70",,10,8,11,5,mid,Day
-187,5.25,Brighton & Hove Albion,3.9,Arsenal,1.72,1.75,1.75,1,1,1,1,35,7,12,4,6,5,mid,Night
-188,5.25,Watford,3.8,Chelsea,1.75,1.67,2.0,1,2,1,1,45'3,"45'1,58",9,3,10,5,mid,Night
-189,2.3,Southampton,3.5,West Ham United,3.3,1.0,1.38,1,2,0,0,50,"53,59",9,6,12,6,mid,Night
-190,3.25,Brighton & Hove Albion,3.4,Everton,2.14,1.67,1.0,1,0,0,0,59,,7,4,11,5,mid,Day
-191,2.0,Fulham,3.4,Huddersfield Town,3.75,1.0,0.56,1,0,0,0,90'1,,13,6,7,6,mid,Day
-192,1.55,Leicester City,4.0,Cardiff City,6.0,1.56,0.22,0,1,0,0,,90'2,11,8,7,4,mid,Day
-193,1.33,Tottenham Hotspur,5.0,Wolverhampton Wanderers,8.5,2.25,1.33,1,3,1,0,22,"72,83,87",8,4,9,5,mid,Day
-194,1.85,Watford,3.6,Newcastle United,4.0,1.5,1.11,1,1,0,1,82,29,8,6,7,3,mid,Day
-195,1.5,Liverpool,4.5,Arsenal,5.75,2.78,1.67,5,1,4,1,"14,16,32,45'2,65",11,14,11,6,3,mid,Night
-196,4.75,Crystal Palace,4.0,Chelsea,1.66,1.0,2.11,0,1,0,0,,51,3,0,9,5,mid,Day
-197,3.3,Burnley,3.2,West Ham United,2.25,0.78,1.56,2,0,2,0,"15,34",,15,6,7,5,mid,Day
-198,10.0,Southampton,5.25,Manchester City,1.3,0.89,1.89,1,3,1,3,37,"10,45,45'3",6,5,11,7,mid,Day
-199,1.33,Manchester United,4.75,AFC Bournemouth,10.0,2.0,1.0,4,1,3,1,"5,33,45,72",45'2,9,9,6,4,mid,Day
-200,2.0,Everton,3.5,Leicester City,4.2,1.8,1.4,0,1,0,0,,58,10,3,8,5,mid,Day
-201,1.33,Arsenal,5.75,Fulham,9.5,2.3,0.2,4,1,1,0,"25,55,79,83",69,14,10,9,5,mid,Day
-202,7.5,Cardiff City,4.5,Tottenham Hotspur,1.5,1.3,2.45,0,3,0,3,,"3,12,26",6,4,11,5,mid,Night
-203,1.28,Chelsea,6.5,Southampton,11.0,2.1,0.7,0,0,0,0,,,9,7,6,3,mid,Night
-204,2.14,Huddersfield Town,3.1,Burnley,4.2,0.5,0.5,1,2,1,1,33,"40,74",6,3,16,9,mid,Night
-205,1.95,West Ham United,3.75,Brighton & Hove Albion,4.0,1.3,0.7,2,2,0,0,"66,68","56,58",13,7,9,7,mid,Night
-206,2.0,Wolverhampton Wanderers,3.4,Crystal Palace,4.33,1.4,1.0,0,2,0,0,,"83,90'5",7,2,11,5,mid,Night
-207,2.6,AFC Bournemouth,3.6,Watford,2.75,1.7,1.33,3,3,3,3,"34,37,40","14,27,38",21,13,10,4,mid,Night
-208,6.0,Newcastle United,4.2,Manchester United,1.61,0.7,1.4,0,2,0,0,,"64,80",12,4,14,8,mid,Night
-209,2.04,Manchester City,3.8,Liverpool,3.6,2.7,2.6,2,1,1,0,"40,72",64,9,5,8,6,mid,Night
-210,3.5,West Ham United,4.0,Arsenal,2.05,1.27,1.5,1,0,0,0,48,,11,4,11,3,mid,Day
-211,11.0,Brighton & Hove Albion,6.0,Liverpool,1.3,1.8,2.36,0,1,0,0,,50,6,0,9,4,mid,Day
-212,2.4,Burnley,3.3,Fulham,3.25,1.0,0.18,2,1,2,1,"20,23",2,7,2,9,5,mid,Day
-213,2.25,Cardiff City,3.25,Huddersfield Town,3.6,1.18,0.5,0,0,0,0,,,0,0,7,3,mid,Day
-214,2.25,Crystal Palace,3.4,Watford,3.5,0.9,1.3,1,2,1,0,38,"67,74",13,7,12,3,mid,Day
-215,1.95,Leicester City,3.5,Southampton,4.33,1.4,0.73,1,2,0,2,58,"11,45'2",15,7,7,4,mid,Day
-216,1.22,Chelsea,7.0,Newcastle United,15.0,2.0,1.1,2,1,1,1,"9,57",40,9,7,9,3,mid,Night
-217,1.75,Everton,4.0,AFC Bournemouth,4.8,1.64,0.9,2,0,0,0,"61,90'5",,12,4,15,8,mid,Day
-218,2.05,Tottenham Hotspur,3.7,Manchester United,3.75,2.0,1.55,0,1,0,1,,44,18,12,12,9,mid,Day
-219,1.18,Manchester City,8.0,Wolverhampton Wanderers,17.0,2.73,1.5,3,0,2,0,"10,39,78",,17,10,2,0,mid,Night
-220,2.37,Wolverhampton Wanderers,3.2,Leicester City,3.4,1.27,1.55,4,3,2,0,"4,12,64,90'3","47,51,87",11,8,12,7,mid,Day
-221,2.37,AFC Bournemouth,3.7,West Ham United,3.0,1.64,1.4,2,0,0,0,"53,90'1",,10,5,8,2,mid,Day
-222,1.2,Liverpool,7.5,Crystal Palace,17.0,2.8,1.18,4,3,0,1,"46,53,75,90'3","34,65,90'5",17,10,7,4,mid,Day
-223,1.3,Manchester United,5.75,Brighton & Hove Albion,12.0,2.1,0.73,2,1,2,0,"27,42",72,15,6,7,4,mid,Day
-224,1.95,Newcastle United,3.4,Cardiff City,4.5,0.64,0.5,3,0,1,0,"24,63,90'3",,12,7,7,2,mid,Day
-225,2.75,Southampton,3.4,Everton,2.7,0.8,0.9,2,1,0,0,"50,64",90'1,9,5,4,3,mid,Day
-226,1.65,Watford,4.0,Burnley,5.75,1.45,0.73,0,0,0,0,,,8,5,11,4,mid,Day
-227,3.1,Arsenal,3.6,Chelsea,2.37,2.36,2.2,2,0,2,0,"14,39",,13,6,11,2,mid,Night
-228,21.0,Huddersfield Town,8.5,Manchester City,1.16,0.45,2.0,0,3,0,1,,"18,54,56",6,3,11,5,mid,Day
-229,5.25,Fulham,3.8,Tottenham Hotspur,1.75,1.2,2.5,1,2,1,0,17,"51,90'3",10,5,12,6,mid,Day
-230,1.22,Arsenal,7.0,Cardiff City,15.0,2.42,0.45,2,1,0,0,"66,83",90'3,10,5,12,3,mid,Night
-231,2.37,Fulham,3.3,Brighton & Hove Albion,3.3,1.09,0.67,4,2,0,2,"47,58,74,79","3,17",18,9,11,7,mid,Night
-232,4.0,Huddersfield Town,3.3,Everton,2.1,0.42,0.82,0,1,0,1,,3,9,3,10,6,mid,Night
-233,2.1,Wolverhampton Wanderers,3.5,West Ham United,3.75,1.42,1.27,3,0,0,0,"66,80,86",,14,10,4,0,mid,Night
-234,1.28,Manchester United,6.0,Burnley,12.0,2.18,0.75,2,2,0,0,"87,90'2","51,81",21,10,5,5,mid,Night
-235,19.0,Newcastle United,8.0,Manchester City,1.18,0.83,2.09,2,1,0,1,"66,80",1,6,3,8,5,mid,Night
-236,5.25,AFC Bournemouth,4.2,Chelsea,1.66,1.75,2.0,4,0,0,0,"47,63,74,90'5",,10,8,10,8,mid,Night
-237,2.4,Southampton,3.4,Crystal Palace,3.2,1.0,1.08,1,1,0,1,77,41,10,5,13,4,mid,Night
-238,1.22,Liverpool,7.0,Leicester City,15.0,2.82,1.42,1,1,1,1,3,45'2,9,4,5,3,mid,Night
-239,1.66,Tottenham Hotspur,4.0,Watford,5.75,1.8,1.45,2,1,0,1,"80,87",38,10,4,7,2,mid,Night
-240,1.44,Tottenham Hotspur,4.5,Newcastle United,9.0,1.91,1.0,1,0,0,0,83,,13,5,6,3,last,Day
-241,2.55,Brighton & Hove Albion,3.3,Watford,3.0,1.64,1.33,0,0,0,0,,,18,5,6,0,last,Day
-242,2.55,Burnley,3.5,Southampton,2.87,1.18,0.92,1,1,0,0,90'4,55,10,7,8,5,last,Day
-243,1.2,Chelsea,7.5,Huddersfield Town,19.0,2.08,0.55,5,0,2,0,"16,45'1,66,69,86",,16,8,4,3,last,Day
-244,2.05,Crystal Palace,3.5,Fulham,4.0,0.82,0.17,2,0,1,0,"25,87",,12,7,8,0,last,Day
-245,2.37,Everton,3.4,Wolverhampton Wanderers,3.25,1.75,1.36,1,3,1,2,27,"7,45,66",7,5,7,5,last,Day
-246,3.25,Cardiff City,3.5,AFC Bournemouth,2.3,1.17,0.82,2,0,1,0,"5,46",,6,6,8,3,last,Night
-247,3.6,Leicester City,3.5,Manchester United,2.15,1.27,1.67,0,1,0,1,,9,15,7,9,7,last,Day
-248,1.33,Manchester City,6.0,Arsenal,9.0,2.75,1.36,3,1,2,1,"1,44,61",11,16,13,3,3,last,Day
-249,8.0,West Ham United,5.25,Liverpool,1.4,1.42,2.42,1,1,1,1,28,22,10,3,10,7,last,Night
-250,10.0,Everton,6.25,Manchester City,1.3,1.62,1.92,0,2,0,1,,"45'2,90'7",2,2,9,5,last,Night
-251,5.5,Fulham,4.4,Manchester United,1.61,1.25,1.77,0,3,0,2,,"14,23,65",11,4,12,8,last,Day
-252,2.1,Crystal Palace,3.5,West Ham United,3.75,1.0,1.17,1,1,0,1,76,27,16,6,5,5,last,Day
-253,5.75,Huddersfield Town,4.4,Arsenal,1.6,0.38,1.25,1,2,0,2,90'3,"16,44",14,8,9,5,last,Day
-254,1.22,Liverpool,7.5,AFC Bournemouth,14.0,2.67,0.75,3,0,2,0,"24,34,48",,16,10,8,3,last,Day
-255,1.75,Southampton,3.9,Cardiff City,5.0,1.0,0.42,1,2,0,0,90'1,"69,90'3",13,8,7,4,last,Day
-256,2.35,Watford,3.5,Everton,3.2,1.42,1.0,1,0,0,0,65,,6,3,9,5,last,Day
-257,2.05,Brighton & Hove Albion,3.3,Burnley,4.2,1.58,0.77,1,3,0,1,76,"26,61,74",11,7,8,6,last,Night
-258,1.7,Tottenham Hotspur,3.9,Leicester City,5.5,2.0,1.38,3,1,1,0,"33,63,90'1",76,8,6,19,10,last,Day
-259,1.5,Manchester City,4.75,Chelsea,7.0,2.77,1.83,6,0,4,0,"4,13,19,25,56,80",,15,10,8,5,last,Day
-260,1.7,Wolverhampton Wanderers,3.75,Newcastle United,5.75,1.54,0.92,1,1,0,0,90'5,56,15,7,6,4,last,Night
-261,3.1,Cardiff City,3.4,Watford,2.45,1.31,1.31,1,5,0,1,82,"18,61,63,73,90'1",12,7,12,8,last,Night
-262,1.95,West Ham United,3.8,Fulham,4.0,1.38,0.15,3,1,2,1,"29,40,90'1",3,17,8,8,6,last,Night
-263,5.75,Burnley,3.8,Tottenham Hotspur,1.7,1.17,2.54,2,1,0,0,"57,83",65,8,5,12,7,last,Day
-264,2.87,AFC Bournemouth,3.4,Wolverhampton Wanderers,2.62,1.85,1.5,1,1,1,0,14,83,9,4,8,3,last,Day
-265,1.83,Newcastle United,3.5,Huddersfield Town,5.25,1.0,0.5,2,0,0,0,"46,52",,24,13,2,0,last,Day
-266,2.25,Leicester City,3.4,Crystal Palace,3.5,1.17,1.08,1,4,0,1,64,"40,70,81,90'3",16,6,8,6,last,Night
-267,1.5,Arsenal,4.75,Southampton,7.0,2.46,0.92,2,0,2,0,"6,17",,9,5,8,5,last,Day
-268,3.1,Manchester United,3.5,Liverpool,2.37,2.08,2.31,0,0,0,0,,,5,4,6,2,last,Day
-269,3.75,Cardiff City,3.4,Everton,2.15,1.21,0.92,0,3,0,1,,"41,66,90'3",6,0,10,5,last,Night
-270,5.0,Huddersfield Town,3.5,Wolverhampton Wanderers,1.85,0.36,1.46,1,0,0,0,90'1,,13,4,6,0,last,Night
-271,1.9,Leicester City,3.5,Brighton & Hove Albion,4.6,1.08,0.62,2,1,1,0,"10,63",66,13,4,13,4,last,Night
-272,2.15,Newcastle United,3.3,Burnley,3.9,1.14,0.93,2,0,2,0,"24,38",,13,4,9,3,last,Night
-273,1.44,Arsenal,5.0,AFC Bournemouth,7.5,2.5,0.69,5,1,2,1,"4,27,47,59,78",30,12,8,9,6,last,Night
-274,1.9,Southampton,3.7,Fulham,4.33,0.92,0.14,2,0,2,0,"23,40",,12,5,9,5,last,Night
-275,3.25,Crystal Palace,3.5,Manchester United,2.3,1.0,1.86,1,3,0,1,66,"33,52,83",14,3,10,5,last,Night
-276,2.3,Chelsea,3.5,Tottenham Hotspur,3.25,2.15,2.36,2,0,0,0,"57,84",,10,2,6,0,last,Night
-277,1.28,Liverpool,6.0,Watford,12.0,2.69,1.43,5,0,2,0,"9,20,66,79,82",,15,11,5,4,last,Night
-278,1.16,Manchester City,9.0,West Ham United,19.0,2.79,1.15,1,0,0,0,59,,18,8,3,2,last,Night
-279,2.05,Tottenham Hotspur,3.7,Arsenal,3.75,2.08,1.38,1,1,0,1,74,16,11,4,7,5,last,Day
-280,13.0,AFC Bournemouth,7.5,Manchester City,1.22,1.79,2.0,0,1,0,0,,55,0,0,18,8,last,Day
-281,1.85,Brighton & Hove Albion,3.4,Huddersfield Town,5.25,1.46,0.46,1,0,0,0,79,,11,5,5,5,last,Day
-282,2.8,Burnley,3.3,Crystal Palace,2.75,1.31,1.21,1,3,0,1,90,"15,48,76",15,5,9,5,last,Day
-283,1.45,Manchester United,4.5,Southampton,8.5,2.0,0.86,3,2,0,1,"53,59,88","26,75",16,7,8,4,last,Day
-284,1.5,Wolverhampton Wanderers,4.33,Cardiff City,8.0,1.5,0.62,2,0,2,0,"16,18",,12,7,9,5,last,Day
-285,2.15,West Ham United,3.5,Newcastle United,3.6,1.5,0.92,2,0,2,0,"7,42",,8,5,9,3,last,Night
-286,2.55,Watford,3.3,Leicester City,3.0,1.54,1.29,2,1,1,0,"5,90'2",75,6,6,9,3,last,Day
-287,6.5,Fulham,4.5,Chelsea,1.53,1.15,1.69,1,2,1,2,27,"20,31",10,6,13,8,last,Day
-288,6.0,Everton,4.2,Liverpool,1.61,1.5,2.21,0,0,0,0,,,7,4,7,4,last,Day
-289,1.83,Crystal Palace,3.6,Brighton & Hove Albion,5.0,0.93,0.57,1,2,0,1,50,"19,74",9,4,5,4,last,Day
-290,3.6,Cardiff City,3.5,West Ham United,2.15,1.13,1.07,2,0,1,0,"4,52",,14,8,8,3,last,Day
-291,3.4,Huddersfield Town,3.3,AFC Bournemouth,2.35,0.53,0.64,0,2,0,1,,"20,66",5,2,9,6,last,Day
-292,1.57,Leicester City,4.5,Fulham,6.0,1.21,0.13,3,1,1,0,"21,78,86",51,17,9,5,4,last,Day
-293,2.8,Newcastle United,3.25,Everton,2.8,1.27,1.07,3,2,0,2,"65,81,84","18,32",15,8,6,4,last,Day
-294,4.5,Southampton,3.8,Tottenham Hotspur,1.85,1.07,2.2,2,1,0,1,"76,81",26,9,5,15,6,last,Day
-295,1.16,Manchester City,9.0,Watford,19.0,2.8,1.33,3,1,0,0,"46,50,59",66,17,10,2,2,last,Night
-296,1.16,Liverpool,8.5,Burnley,21.0,2.71,0.87,4,2,2,1,"19,29,67,90'3","6,90'1",14,6,3,3,last,Day
-297,1.55,Chelsea,4.2,Wolverhampton Wanderers,7.0,2.21,1.36,1,1,0,0,90'2,56,9,7,3,2,last,Day
-298,2.4,Arsenal,3.6,Manchester United,3.0,2.53,1.93,2,0,1,0,"12,69",,11,4,12,5,last,Day
-299,2.05,AFC Bournemouth,3.6,Newcastle United,3.8,1.67,0.86,2,2,0,1,"48,81","45'5,90'4",11,4,9,5,last,Day
-300,3.1,Burnley,3.4,Leicester City,2.45,1.21,1.2,1,2,1,1,38,"33,90",10,3,5,5,last,Day
-301,1.55,West Ham United,4.2,Huddersfield Town,7.0,1.6,0.43,4,3,1,2,"15,75,84,90'1","17,30,65",11,6,12,6,last,Day
-302,12.0,Fulham,7.0,Liverpool,1.25,1.07,2.13,1,2,0,1,74,"26,81",5,3,14,7,last,Day
-303,4.0,Everton,3.8,Chelsea,1.95,1.47,1.79,2,0,0,0,"49,72",,13,9,11,6,last,Day
-304,21.0,Fulham,11.0,Manchester City,1.12,1.0,2.07,0,2,0,2,,"5,27",4,0,16,8,last,Day
-305,2.55,Brighton & Hove Albion,3.2,Southampton,3.1,1.57,0.8,0,1,0,0,,53,11,2,7,3,last,Day
-306,3.2,Burnley,3.25,Wolverhampton Wanderers,2.45,1.13,1.33,2,0,1,0,"2,77",,5,2,5,2,last,Day
-307,1.45,Crystal Palace,4.4,Huddersfield Town,9.0,0.87,0.4,2,0,0,0,"76,88",,12,6,13,6,last,Day
-308,1.85,Leicester City,3.8,AFC Bournemouth,4.5,1.33,0.8,2,0,1,0,"11,82",,14,5,7,3,last,Day
-309,1.44,Manchester United,4.75,Watford,8.0,2.07,1.25,2,1,1,0,"28,72",90,7,6,15,9,last,Day
-310,2.55,West Ham United,3.5,Everton,2.9,1.69,1.0,0,2,0,2,,"5,33",4,2,14,10,last,Night
-311,9.0,Cardiff City,4.5,Chelsea,1.44,1.25,1.67,1,2,0,0,46,"84,90'1",8,4,13,4,last,Day
-312,1.61,Liverpool,4.2,Tottenham Hotspur,6.0,2.73,2.06,2,1,1,0,"16,90",70,12,4,10,3,last,Day
-313,1.36,Arsenal,5.25,Newcastle United,9.5,2.56,0.87,2,0,1,0,"30,83",,6,5,4,2,last,Night
-314,1.72,Watford,4.0,Fulham,5.0,1.64,0.13,4,1,1,1,"23,63,69,75",33,9,8,11,8,last,Night
-315,4.0,Wolverhampton Wanderers,3.6,Manchester United,2.0,1.6,1.81,2,1,1,1,"25,77",13,8,3,12,5,last,Night
-316,1.25,Chelsea,6.5,Brighton & Hove Albion,15.0,2.13,0.73,3,0,1,0,"38,60,63",,13,5,4,2,last,Night
-317,1.45,Tottenham Hotspur,5.0,Crystal Palace,7.5,2.0,1.33,2,0,0,0,"55,80",,20,11,6,2,last,Night
-318,1.06,Manchester City,17.0,Cardiff City,34.0,2.81,0.57,2,0,2,0,"6,44",,26,12,4,2,last,Night
-319,9.0,Southampton,5.0,Liverpool,1.4,1.2,2.19,1,3,1,1,9,"36,80,86",8,2,13,6,last,Night
-320,2.1,AFC Bournemouth,3.6,Burnley,3.75,1.63,0.81,1,3,1,2,4,"18,20,56",8,3,8,4,last,Day
-321,5.0,Huddersfield Town,4.0,Leicester City,1.72,0.5,1.31,1,4,0,1,52,"24,48,79,84",8,5,17,10,last,Day
-322,2.6,Newcastle United,3.25,Crystal Palace,3.0,1.38,1.25,0,1,0,0,,81,15,6,4,2,last,Day
-323,3.0,Everton,3.75,Arsenal,2.35,1.56,1.36,1,0,1,0,10,,16,7,6,3,last,Day
-324,1.33,Chelsea,5.75,West Ham United,9.5,2.19,1.0,2,0,1,0,"24,90",,14,8,6,3,last,Night
-325,1.66,Leicester City,4.0,Newcastle United,5.75,1.44,0.81,0,1,0,1,,32,12,6,11,6,last,Night
-326,1.22,Tottenham Hotspur,7.0,Huddersfield Town,15.0,2.07,0.38,4,0,2,0,"24,27,87,90'3",,14,6,7,2,last,Day
-327,2.3,Brighton & Hove Albion,3.4,AFC Bournemouth,3.4,1.47,0.75,0,5,0,1,,"33,55,74,82,90'2",5,2,12,8,last,Day
-328,1.9,Burnley,3.6,Cardiff City,4.5,1.25,0.53,2,0,1,0,"31,90'2",,14,8,10,3,last,Day
-329,5.0,Fulham,4.0,Everton,1.75,0.94,1.13,2,0,0,0,"46,69",,13,6,8,2,last,Day
-330,2.6,Southampton,3.25,Wolverhampton Wanderers,3.0,1.13,1.25,3,1,2,1,"2,30,71",28,11,7,11,3,last,Day
-331,1.4,Manchester United,5.25,West Ham United,8.5,2.13,0.94,2,1,1,0,"19,80",49,10,5,11,5,last,Day
-332,11.0,Crystal Palace,6.0,Manchester City,1.3,1.0,2.13,1,3,0,1,81,"15,63,90",6,4,14,7,last,Day
-333,1.66,Liverpool,4.2,Chelsea,5.25,2.75,1.75,2,0,0,0,"51,53",,11,8,6,4,last,Day
-334,3.2,Watford,3.75,Arsenal,2.25,1.73,1.27,0,1,0,1,,10,7,4,12,6,last,Night
-335,2.0,Brighton & Hove Albion,3.3,Cardiff City,4.5,1.38,0.5,0,2,0,1,,"22,50",11,3,7,4,last,Night
-336,1.3,Manchester City,6.0,Tottenham Hotspur,11.0,2.82,1.94,1,0,1,0,5,,11,5,8,5,last,Day
-337,1.65,AFC Bournemouth,4.4,Fulham,5.25,1.53,0.12,0,1,0,0,,53,12,6,12,6,last,Day
-338,4.4,Huddersfield Town,3.9,Watford,1.85,0.47,1.18,1,2,0,1,90'3,"5,80",9,4,11,7,last,Day
-339,3.3,West Ham United,3.5,Leicester City,2.3,1.59,1.41,2,2,1,0,"37,82","67,90'2",9,4,11,6,last,Day
-340,1.75,Wolverhampton Wanderers,3.5,Brighton & Hove Albion,6.0,1.69,0.69,0,0,0,0,,,20,6,5,0,last,Day
-341,2.55,Newcastle United,3.2,Southampton,3.1,1.29,0.94,3,1,2,0,"27,31,86",59,11,7,11,4,last,Day
-342,3.25,Everton,3.5,Manchester United,2.3,1.65,1.71,4,0,2,0,"13,28,56,64",,12,9,7,2,last,Day
-343,1.53,Arsenal,4.6,Crystal Palace,6.5,2.59,1.35,2,3,0,1,"47,77","17,61,69",11,6,13,8,last,Day
-344,17.0,Cardiff City,7.5,Liverpool,1.2,1.18,2.24,0,2,0,0,,"57,81",5,3,15,7,last,Day
-345,1.25,Chelsea,6.25,Burnley,15.0,2.24,0.94,2,2,2,2,"12,14","8,24",18,10,6,4,last,Night
-346,2.25,Watford,3.5,Southampton,3.4,1.63,0.88,1,1,0,1,90,1,8,5,8,5,last,Night
-347,1.28,Tottenham Hotspur,6.0,Brighton & Hove Albion,13.0,2.13,0.71,1,0,0,0,88,,18,6,6,2,last,Night
-348,2.9,Wolverhampton Wanderers,3.5,Arsenal,2.55,1.65,1.38,3,1,3,0,"28,37,45'2",80,9,4,6,2,last,Night
-349,7.5,Manchester United,5.0,Manchester City,1.44,2.19,2.19,0,2,0,0,,"54,66",8,2,9,6,last,Night
-350,1.07,Liverpool,15.0,Huddersfield Town,41.0,2.76,0.35,5,0,3,0,"1,23,45'1,66,83",,20,8,4,2,last,Night
-351,1.4,Tottenham Hotspur,5.5,West Ham United,7.5,2.18,0.88,0,1,0,0,,67,9,5,13,8,last,Day
-352,2.62,Crystal Palace,3.5,Everton,2.8,0.94,1.06,0,0,0,0,,,6,0,12,4,last,Day
-353,2.4,Fulham,3.6,Cardiff City,3.0,1.06,0.65,1,0,0,0,79,,8,3,11,9,last,Day
-354,1.9,Southampton,3.9,AFC Bournemouth,4.1,1.24,0.88,3,3,1,2,"12,55,67","20,32,86",17,8,10,6,last,Day
-355,2.62,Watford,3.3,Wolverhampton Wanderers,2.9,1.59,1.18,1,2,0,1,49,"41,77",7,2,8,5,last,Day
-356,2.3,Brighton & Hove Albion,3.2,Newcastle United,3.6,1.29,0.94,1,1,0,1,75,18,8,3,5,2,last,Day
-357,2.75,Leicester City,3.6,Arsenal,2.6,1.35,1.29,3,0,0,0,"59,86,90'5",,19,13,5,2,last,Day
-358,23.0,Burnley,9.0,Manchester City,1.14,1.35,2.24,0,1,0,0,,63,3,0,12,8,last,Day
-359,2.7,Manchester United,3.5,Chelsea,2.7,2.06,1.65,1,1,1,1,11,43,8,6,11,4,last,Day
-360,1.66,Everton,4.0,Burnley,5.75,1.72,0.94,2,0,2,0,"17,20",,16,7,6,2,last,Night
-361,4.0,AFC Bournemouth,4.0,Tottenham Hotspur,1.9,1.44,1.83,1,0,0,0,90'1,,14,7,9,6,last,Day
-362,2.3,West Ham United,3.75,Southampton,3.1,1.56,0.89,3,0,1,0,"16,69,72",,13,7,5,2,last,Day
-363,1.53,Wolverhampton Wanderers,4.2,Fulham,7.5,1.72,0.28,1,0,0,0,75,,16,7,6,3,last,Day
-364,2.6,Cardiff City,3.75,Crystal Palace,2.7,1.11,1.44,2,3,1,2,"31,90","28,39,70",15,9,15,8,last,Day
-365,9.5,Newcastle United,5.25,Liverpool,1.36,1.39,2.28,2,3,1,2,"20,54","13,28,86",11,8,11,5,last,Night
-366,1.4,Chelsea,5.25,Watford,8.0,2.17,1.28,3,0,0,0,"48,51,75",,16,10,14,4,last,Day
-367,11.0,Huddersfield Town,6.0,Manchester United,1.3,0.44,1.61,1,1,0,1,60,8,6,4,17,8,last,Day
-368,1.4,Arsenal,5.0,Brighton & Hove Albion,9.0,2.44,0.67,1,1,1,0,9,61,14,9,10,6,last,Day
-369,1.12,Manchester City,8.5,Leicester City,17.0,2.83,1.39,1,0,0,0,70,,16,6,5,3,last,Night
-370,19.0,Brighton & Hove Albion,8.5,Manchester City,1.16,1.28,2.28,1,4,1,2,27,"28,38,63,72",6,3,13,10,last,Day
-371,3.25,Burnley,3.8,Arsenal,2.2,1.28,1.22,1,3,0,0,65,"52,63,90'4",12,6,11,7,last,Day
-372,1.9,Crystal Palace,4.2,AFC Bournemouth,3.8,0.94,0.89,5,3,3,1,"24,32,37,65,80","45,56,73",16,9,15,9,last,Day
-373,2.5,Fulham,3.6,Newcastle United,2.9,1.17,0.94,0,4,0,2,,"9,11,61,90",11,3,13,7,last,Day
-374,2.4,Leicester City,3.75,Chelsea,2.9,1.44,1.61,0,0,0,0,,,8,4,12,5,last,Day
-375,1.3,Liverpool,6.0,Wolverhampton Wanderers,11.0,2.78,1.28,2,0,1,0,"17,81",,11,6,7,3,last,Day
-376,1.28,Manchester United,6.5,Cardiff City,11.0,2.0,0.61,0,2,0,1,,"23,54",21,11,11,5,last,Day
-377,1.44,Southampton,4.75,Huddersfield Town,8.5,1.22,0.33,1,1,1,0,41,55,7,4,8,4,last,Day
-378,2.2,Tottenham Hotspur,3.5,Everton,3.5,2.06,1.06,2,2,1,0,"3,75","69,72",9,4,13,10,last,Day
-379,2.25,Watford,3.75,West Ham United,3.2,1.5,1.0,1,4,0,2,46,"15,39,71,78",11,9,15,10,last,Day
+,result,B365H,home_team_name,B365D,away_team_name,B365A,Pre-Match PPG (Home),Pre-Match PPG (Away),home_team_goal_count,away_team_goal_count,home_team_goal_count_half_time,home_team_goal_count_secondhalf_time,away_team_goal_count_half_time,away_team_goal_count_secondhalf_time,home_team_goal_timings,away_team_goal_timings,home_team_shots,home_team_shots_on_target,home_team_corner_count,away_team_shots,away_team_shots_on_target,away_team_corner_count,season_part,day_or_night,home-80-final,away-80-final,80-final
+0,1,1.57,Manchester United,3.9,Leicester City,7.5,0.0,0.0,2,1,1,1,0,1,"3,83",90'2,8,,2,8,5,5,first,Night,True,True,True
+1,-1,3.9,Newcastle United,3.5,Tottenham Hotspur,2.04,0.0,0.0,1,2,1,0,2,0,11,"8,18",11,3.0,3,13,6,5,first,Day,False,False,False
+2,2,1.9,AFC Bournemouth,3.6,Cardiff City,4.5,0.0,0.0,2,0,1,1,0,0,"24,90'1",,11,,7,7,2,4,first,Day,True,False,True
+3,-2,2.5,Fulham,3.4,Crystal Palace,3.0,0.0,0.0,0,2,0,0,1,1,,"41,79",11,,5,11,11,5,first,Day,False,False,False
+4,-3,6.5,Huddersfield Town,4.0,Chelsea,1.61,0.0,0.0,0,3,0,0,2,1,,"34,45,80",6,2.0,2,8,5,5,first,Day,False,True,True
+5,2,2.37,Watford,3.2,Brighton & Hove Albion,3.4,0.0,0.0,2,0,1,1,0,0,"35,54",,15,6.0,8,6,0,2,first,Day,False,False,False
+6,0,2.37,Wolverhampton Wanderers,3.3,Everton,3.3,0.0,0.0,2,2,1,1,1,1,"44,80","17,67",10,5.0,3,9,6,6,first,Day,True,False,True
+7,4,1.25,Liverpool,6.5,West Ham United,14.0,0.0,0.0,4,0,2,2,0,0,"19,45'2,53,88",,16,9.0,5,5,3,4,first,Day,True,False,True
+8,0,1.85,Southampton,3.5,Burnley,5.0,0.0,0.0,0,0,0,0,0,0,,,10,4.0,8,13,7,5,first,Day,False,False,False
+9,-2,4.0,Arsenal,3.8,Manchester City,1.95,0.0,0.0,0,2,0,0,1,1,,"14,64",8,,2,14,9,9,first,Day,False,False,False
+10,0,3.25,Cardiff City,3.1,Newcastle United,2.54,0.0,0.0,0,0,0,0,0,0,,,8,2.0,5,8,7,5,first,Day,False,False,False
+11,1,1.9,Everton,3.5,Southampton,4.75,0.0,0.0,2,1,2,0,0,1,"15,31",54,11,,2,11,5,5,first,Day,False,False,False
+12,2,2.04,Leicester City,3.5,Wolverhampton Wanderers,3.9,0.0,0.0,2,0,2,0,0,0,"29,45",,5,,1,11,4,9,first,Day,False,False,False
+13,2,1.28,Tottenham Hotspur,6.0,Fulham,12.0,0.0,0.0,3,1,1,2,0,1,"43,74,77",52,22,,5,9,4,2,first,Day,False,False,False
+14,-1,2.1,West Ham United,3.6,AFC Bournemouth,3.7,0.0,0.0,1,2,1,0,0,2,33,"60,66",9,,6,9,6,4,first,Day,False,False,False
+15,1,1.8,Chelsea,4.0,Arsenal,4.5,0.0,0.0,3,2,2,1,2,0,"9,20,81","37,41",19,12.0,5,13,7,1,first,Day,True,False,True
+16,-2,2.45,Burnley,3.1,Watford,3.4,0.0,0.0,1,3,1,0,1,2,6,"3,48,51",7,4.0,5,7,7,2,first,Day,False,False,False
+17,5,1.1,Manchester City,13.0,Huddersfield Town,26.0,0.0,0.0,6,1,3,3,1,0,"25,31,35,48,75,84",43,24,15.0,10,4,2,3,first,Day,True,False,True
+18,1,5.5,Brighton & Hove Albion,3.6,Manchester United,1.75,0.0,0.0,3,2,3,0,1,1,"25,27,44","34,90'5",7,4.0,3,8,4,5,first,Day,False,True,True
+19,-2,7.0,Crystal Palace,5.0,Liverpool,1.44,0.0,0.0,0,2,0,0,1,1,,"45,90'3",8,3.0,6,11,7,7,first,Night,False,True,True
+20,0,11.0,Wolverhampton Wanderers,6.5,Manchester City,1.28,1.0,3.0,1,1,0,1,0,1,57,69,9,3.0,5,13,7,9,first,Day,False,False,False
+21,0,2.62,AFC Bournemouth,3.6,Everton,2.75,3.0,1.0,2,2,0,2,0,2,"75,79","56,66",16,,6,9,4,2,first,Day,False,False,False
+22,2,1.36,Arsenal,5.5,West Ham United,9.0,0.0,0.0,3,1,1,2,1,0,"30,70,90'2",25,13,,7,11,6,2,first,Day,True,False,True
+23,0,2.37,Huddersfield Town,3.0,Cardiff City,3.7,0.0,0.0,0,0,0,0,0,0,,,4,,7,11,5,7,first,Day,False,False,False
+24,-1,2.45,Southampton,3.2,Leicester City,3.25,1.0,0.0,1,2,0,1,0,2,52,"56,90'2",10,6.0,10,9,6,3,first,Day,False,True,True
+25,1,1.16,Liverpool,8.5,Brighton & Hove Albion,19.0,3.0,0.0,1,0,1,0,0,0,23,,16,9.0,8,5,3,5,first,Day,False,False,False
+26,1,2.6,Watford,3.25,Crystal Palace,3.0,3.0,3.0,2,1,0,2,0,1,"53,71",78,10,6.0,6,9,4,3,first,Day,False,False,False
+27,2,2.0,Fulham,3.4,Burnley,4.33,0.0,1.0,4,2,3,1,2,0,"4,36,38,83","10,41",23,13.0,6,8,3,4,first,Day,True,False,True
+28,-1,5.75,Newcastle United,4.0,Chelsea,1.66,0.0,3.0,1,2,0,1,0,2,83,"76,87",5,3.0,4,11,4,5,first,Day,True,True,True
+29,-3,2.62,Manchester United,3.3,Tottenham Hotspur,2.9,3.0,3.0,0,3,0,0,0,3,,"50,52,84",18,6.0,5,8,6,2,first,Night,False,True,True
+30,-1,7.5,Leicester City,5.0,Liverpool,1.44,3.0,3.0,1,2,0,1,2,0,63,"10,45",9,6.0,4,9,5,4,first,Day,False,False,False
+31,0,2.3,Brighton & Hove Albion,3.4,Fulham,3.4,3.0,0.0,2,2,0,2,1,1,"67,84","43,62",13,6.0,7,9,6,1,first,Day,True,False,True
+32,2,1.3,Chelsea,6.0,AFC Bournemouth,11.0,3.0,3.0,2,0,0,2,0,0,"72,85",,13,,7,8,2,6,first,Day,True,False,True
+33,-2,2.0,Crystal Palace,3.5,Southampton,4.2,0.0,0.0,0,2,0,0,0,2,,"47,90'2",14,7.0,7,13,7,4,first,Day,False,True,True
+34,0,1.53,Everton,4.2,Huddersfield Town,7.5,3.0,0.0,1,1,1,0,1,0,36,34,10,,4,8,7,3,first,Day,False,False,False
+35,-1,2.6,West Ham United,3.4,Wolverhampton Wanderers,2.87,0.0,0.0,0,1,0,0,0,1,,90'3,9,4.0,4,14,7,4,first,Day,False,True,True
+36,1,1.11,Manchester City,11.0,Newcastle United,26.0,3.0,1.0,2,1,1,1,1,0,"8,52",30,18,9.0,4,4,3,0,first,Day,False,False,False
+37,-1,6.5,Cardiff City,4.33,Arsenal,1.57,1.0,0.0,2,3,1,1,1,2,"45'2,70","11,62,81",14,4.0,3,16,12,9,first,Day,False,True,True
+38,-2,6.0,Burnley,3.75,Manchester United,1.7,0.0,0.0,0,2,0,0,2,0,,"27,44",9,3.0,2,16,10,5,first,Day,False,False,False
+39,1,5.5,Watford,4.2,Tottenham Hotspur,1.64,3.0,3.0,2,1,0,2,0,1,"69,76",53,7,,3,10,3,10,first,Day,False,False,False
+40,-1,3.0,Tottenham Hotspur,3.6,Liverpool,2.4,3.0,3.0,1,2,0,1,1,1,90'3,"39,54",9,,5,16,11,4,first,Day,True,False,True
+41,2,2.45,AFC Bournemouth,3.5,Leicester City,3.0,2.0,1.5,4,2,3,1,0,2,"19,37,41,81","88,89",8,,4,13,9,6,first,Day,True,True,True
+42,3,1.18,Chelsea,8.0,Cardiff City,19.0,3.0,0.5,4,1,2,2,1,0,"37,43,80,83",16,16,,5,7,3,4,first,Day,True,False,True
+43,-1,3.3,Huddersfield Town,3.1,Crystal Palace,2.5,0.5,1.5,0,1,0,0,1,0,,38,12,3.0,5,5,3,3,first,Day,False,False,False
+44,3,1.12,Manchester City,10.0,Fulham,26.0,3.0,0.5,3,0,2,1,0,0,"2,21,47",,18,,10,9,4,4,first,Day,False,False,False
+45,-1,4.2,Newcastle United,3.8,Arsenal,1.9,0.0,1.5,1,2,0,1,0,2,90'1,"49,58",3,,10,8,3,4,first,Day,True,False,True
+46,-1,4.33,Watford,3.6,Manchester United,1.95,3.0,1.5,1,2,0,1,2,0,65,"35,38",9,,6,8,7,8,first,Day,False,False,False
+47,1,1.75,Wolverhampton Wanderers,3.6,Burnley,5.75,1.0,0.5,1,0,0,1,0,0,61,,21,8.0,8,8,3,2,first,Day,False,False,False
+48,-2,2.0,Everton,3.75,West Ham United,3.9,2.0,0.0,1,3,1,0,2,1,45'2,"11,31,61",11,,4,7,5,2,first,Day,False,False,False
+49,0,2.1,Southampton,3.4,Brighton & Hove Albion,3.9,0.5,0.0,2,2,1,1,0,2,"35,65","67,90",12,,1,10,5,4,first,Night,False,True,True
+50,0,2.54,Fulham,3.5,Watford,2.9,1.5,3.0,1,1,0,1,1,0,78,2,10,4.0,8,11,7,8,first,Day,False,False,False
+51,4,3.0,Burnley,3.4,AFC Bournemouth,2.5,0.0,1.5,4,0,2,2,0,0,"39,41,83,88",,9,,3,11,6,8,first,Day,True,False,True
+52,-5,23.0,Cardiff City,8.0,Manchester City,1.16,0.5,2.0,0,5,0,0,3,2,,"32,35,44,67,89",3,3.0,1,15,11,9,first,Day,False,True,True
+53,0,2.14,Crystal Palace,3.4,Newcastle United,3.75,0.0,0.5,0,0,0,0,0,0,,,12,,9,7,4,5,first,Day,False,False,False
+54,2,1.61,Leicester City,4.0,Huddersfield Town,6.5,1.5,0.5,3,1,1,2,1,0,"19,66,75",5,16,,3,8,3,1,first,Day,False,False,False
+55,3,1.2,Liverpool,7.5,Southampton,17.0,3.0,1.5,3,0,3,0,0,0,"10,21,45'3",,10,5.0,5,3,2,5,first,Day,False,False,False
+56,0,1.57,Manchester United,4.33,Wolverhampton Wanderers,6.5,1.5,1.5,1,1,1,0,0,1,18,53,10,,5,12,9,4,first,Day,False,False,False
+57,-1,5.0,Brighton & Hove Albion,4.0,Tottenham Hotspur,1.75,2.0,2.0,1,2,0,1,1,1,90'3,"42,76",8,,5,13,8,7,first,Day,True,False,True
+58,0,6.0,West Ham United,4.5,Chelsea,1.57,0.0,3.0,0,0,0,0,0,0,,,6,,1,13,7,8,first,Day,False,False,False
+59,2,1.44,Arsenal,5.0,Everton,7.5,1.5,1.0,2,0,0,2,0,0,"56,59",,7,,5,9,7,9,first,Day,False,False,False
+60,2,4.5,West Ham United,3.8,Manchester United,1.85,0.33,2.0,3,1,2,1,0,1,"5,43,74",71,8,,4,6,5,9,first,Day,False,False,False
+61,2,1.44,Arsenal,5.1,Watford,7.0,2.0,2.0,2,0,0,2,0,0,"81,83",,9,,6,13,6,6,first,Day,True,False,True
+62,3,1.75,Everton,4.2,Fulham,4.75,1.33,0.33,3,0,0,3,0,0,"56,66,89",,13,,12,7,0,1,first,Day,True,False,True
+63,-2,8.5,Huddersfield Town,4.5,Tottenham Hotspur,1.44,0.33,2.25,0,2,0,0,2,0,,"25,34",9,6.0,3,11,7,0,first,Day,False,False,False
+64,2,1.1,Manchester City,12.0,Brighton & Hove Albion,34.0,3.0,0.33,2,0,1,1,0,0,"29,65",,22,9.0,10,3,2,3,first,Day,False,False,False
+65,-2,2.6,Newcastle United,3.3,Leicester City,3.0,0.0,1.0,0,2,0,0,1,1,,"30,73",6,,5,10,6,9,first,Day,False,False,False
+66,2,1.8,Wolverhampton Wanderers,3.6,Southampton,5.25,1.67,1.0,2,0,0,2,0,0,"79,87",,13,7.0,8,11,7,6,first,Day,True,False,True
+67,0,2.8,Chelsea,3.6,Liverpool,2.54,3.0,3.0,1,1,1,0,0,1,25,89,9,5.0,4,13,7,4,first,Day,False,True,True
+68,-1,2.62,Cardiff City,3.0,Burnley,3.2,0.33,0.33,1,2,0,1,0,2,60,"51,70",15,6.0,10,4,3,2,first,Day,False,False,False
+69,1,2.25,AFC Bournemouth,3.5,Crystal Palace,3.4,2.33,2.0,2,1,1,1,0,1,"5,87",55,10,6.0,3,7,3,3,first,Night,True,False,True
+70,1,2.7,Brighton & Hove Albion,3.3,West Ham United,2.87,1.33,1.0,1,0,1,0,0,0,25,,9,5.0,2,12,5,9,first,Night,False,False,False
+71,0,2.14,Burnley,3.1,Huddersfield Town,4.2,1.0,0.33,1,1,1,0,0,1,20,66,4,,1,10,3,10,first,Day,False,False,False
+72,-1,3.0,Crystal Palace,3.2,Wolverhampton Wanderers,2.62,0.33,1.33,0,1,0,0,0,1,,56,9,5.0,6,8,3,3,first,Day,False,False,False
+73,-1,2.2,Leicester City,3.4,Everton,3.6,2.0,0.67,1,2,1,0,1,1,40,"7,77",8,,2,14,9,10,first,Day,False,False,False
+74,1,1.22,Tottenham Hotspur,7.0,Cardiff City,15.0,1.5,0.33,1,0,1,0,0,0,8,,14,8.0,6,9,7,2,first,Day,False,False,False
+75,-4,2.14,Watford,3.6,AFC Bournemouth,3.5,2.25,1.0,0,4,0,0,3,1,,"14,33,45,47",5,3.0,10,11,8,7,first,Day,False,False,False
+76,1,1.44,Manchester United,4.5,Newcastle United,9.0,1.33,0.67,3,2,0,3,2,0,"70,76,90","7,10",16,,10,14,9,6,first,Day,True,False,True
+77,-4,5.25,Fulham,4.33,Arsenal,1.66,1.33,2.0,1,5,1,0,1,4,44,"29,49,67,79,90'1",13,,4,10,8,2,first,Day,False,True,True
+78,-3,6.0,Southampton,4.1,Chelsea,1.61,0.67,2.33,0,3,0,0,1,2,,"30,57,90'3",13,,4,10,7,12,first,Day,False,True,True
+79,0,2.54,Liverpool,3.6,Manchester City,2.8,3.0,2.33,0,0,0,0,0,0,,,7,,2,6,3,6,first,Day,False,False,False
+80,0,1.75,Chelsea,3.8,Manchester United,5.25,2.5,1.5,2,2,1,1,0,2,"21,90'6","55,73",15,,5,8,5,3,first,Day,True,False,True
+81,0,2.04,AFC Bournemouth,3.7,Southampton,3.75,2.5,0.75,0,0,0,0,0,0,,,8,,6,7,5,4,first,Day,False,False,False
+82,2,2.5,Cardiff City,3.5,Fulham,2.95,0.25,0.25,4,2,2,2,2,0,"15,20,65,87","11,34",16,,4,8,5,4,first,Day,True,False,True
+83,5,1.08,Manchester City,13.0,Burnley,34.0,3.0,1.0,5,0,1,4,0,0,"17,54,56,83,90",,17,,10,5,0,1,first,Day,True,False,True
+84,-1,2.2,Newcastle United,3.25,Brighton & Hove Albion,3.8,0.0,0.25,0,1,0,0,1,0,,29,19,,10,7,3,2,first,Day,False,False,False
+85,-1,4.1,West Ham United,3.9,Tottenham Hotspur,1.9,1.0,2.4,0,1,0,0,1,0,,44,12,5.0,10,7,3,6,first,Day,False,False,False
+86,-2,1.75,Wolverhampton Wanderers,3.75,Watford,5.25,2.0,1.33,0,2,0,0,2,0,,"20,21",8,2.0,8,6,4,2,first,Day,False,False,False
+87,-1,11.0,Huddersfield Town,5.5,Liverpool,1.33,0.25,2.5,0,1,0,0,1,0,,24,8,2.0,2,7,3,4,first,Day,False,False,False
+88,2,1.85,Everton,3.6,Crystal Palace,4.75,1.75,1.5,2,0,0,2,0,0,"87,89",,14,,10,8,4,5,first,Day,True,False,True
+89,2,1.53,Arsenal,4.5,Leicester City,6.5,2.25,1.5,3,1,1,2,1,0,"45,63,66",31,18,,6,6,3,4,first,Night,False,False,False
+90,1,3.2,Brighton & Hove Albion,3.2,Wolverhampton Wanderers,2.5,1.75,1.75,1,0,0,1,0,0,48,,7,2.0,1,16,8,10,first,Day,False,False,False
+91,-3,2.9,Fulham,3.75,AFC Bournemouth,2.4,1.0,1.5,0,3,0,0,1,2,,"14,72,85",11,2.0,5,12,6,5,first,Day,False,True,True
+92,3,1.11,Liverpool,11.0,Cardiff City,26.0,2.5,0.25,4,1,1,3,0,1,"10,66,84,87",77,14,8.0,8,3,2,0,first,Day,True,False,True
+93,0,2.1,Southampton,3.4,Newcastle United,3.9,0.5,0.5,0,0,0,0,0,0,,,18,5.0,7,5,0,2,first,Day,False,False,False
+94,3,1.75,Watford,3.75,Huddersfield Town,5.25,1.8,0.5,3,0,2,1,0,0,"10,19,80",,13,7.0,3,12,8,3,first,Day,True,False,True
+95,0,2.1,Leicester City,3.5,West Ham United,3.8,1.5,0.75,1,1,0,1,1,0,89,30,19,,8,10,4,0,first,Day,True,False,True
+96,-4,11.0,Burnley,5.0,Chelsea,1.36,1.0,2.5,0,4,0,0,1,3,,"22,57,62,90'2",6,,4,18,9,4,first,Day,False,True,True
+97,0,4.75,Crystal Palace,4.1,Arsenal,1.75,0.25,2.25,2,2,1,1,0,2,"45'1,83","51,56",15,4.0,6,6,3,4,first,Day,True,False,True
+98,1,1.72,Manchester United,3.9,Everton,5.25,1.75,1.25,2,1,1,1,0,1,"27,49",77,14,11.0,8,14,7,4,first,Day,False,False,False
+99,-1,4.75,Tottenham Hotspur,4.1,Manchester City,1.75,2.0,2.0,0,1,0,0,1,0,,6,5,,3,9,7,6,first,Night,False,False,False
+100,-1,3.6,AFC Bournemouth,3.7,Manchester United,2.1,2.2,1.4,1,2,1,0,1,1,11,"35,90'2",11,8.0,9,15,9,5,first,Day,False,True,True
+101,-1,3.8,Cardiff City,3.4,Leicester City,2.14,0.8,1.2,0,1,0,0,0,1,,55,11,3.0,6,10,6,12,first,Day,False,False,False
+102,2,1.61,Everton,4.0,Brighton & Hove Albion,6.5,2.0,0.8,3,1,1,2,1,0,"26,50,77",33,13,4.0,6,4,4,4,first,Day,False,False,False
+103,1,2.75,Newcastle United,3.25,Watford,2.8,0.0,1.75,1,0,0,1,0,0,65,,7,3.0,8,12,2,9,first,Day,False,False,False
+104,2,1.75,West Ham United,3.75,Burnley,5.25,0.8,0.8,4,2,1,3,1,1,"10,68,84,90'2","45,77",17,11.0,10,5,4,4,first,Day,True,False,True
+105,0,3.9,Arsenal,3.9,Liverpool,1.95,2.4,2.6,1,1,0,1,0,1,82,61,10,5.0,5,10,5,8,first,Night,True,False,True
+106,-1,3.1,Wolverhampton Wanderers,3.4,Tottenham Hotspur,2.45,1.6,2.5,2,3,0,2,2,1,"68,79","27,30,61",12,,5,10,9,1,first,Night,False,False,False
+107,5,1.11,Manchester City,11.0,Southampton,29.0,3.0,0.8,6,1,4,2,1,0,"6,12,18,45'2,67,90'1",29,14,,4,12,7,4,first,Day,True,False,True
+108,2,1.25,Chelsea,6.75,Crystal Palace,13.0,2.2,1.2,3,1,1,2,0,1,"32,65,70",53,12,,4,5,3,2,first,Day,False,False,False
+109,1,2.3,Huddersfield Town,3.5,Fulham,3.3,0.2,0.2,1,0,1,0,0,0,29,,9,3.0,5,5,2,4,first,Night,False,False,False
+110,1,2.6,Cardiff City,3.1,Brighton & Hove Albion,3.1,0.67,0.67,2,1,1,1,1,0,"28,90",6,16,,4,6,4,1,first,Day,True,False,True
+111,0,3.4,Huddersfield Town,3.25,West Ham United,2.35,0.67,0.8,1,1,1,0,0,1,6,74,15,,5,10,6,6,first,Day,False,False,False
+112,0,1.5,Leicester City,4.33,Burnley,8.0,1.4,0.67,0,0,0,0,0,0,,,15,6.0,12,5,2,1,first,Day,False,False,False
+113,1,2.9,Newcastle United,3.4,AFC Bournemouth,2.6,0.5,1.8,2,1,2,0,1,0,"7,39",45'6,15,,7,10,5,10,first,Day,False,False,False
+114,0,2.5,Southampton,3.3,Watford,3.1,0.6,1.4,1,1,1,0,0,1,20,82,11,5.0,7,10,7,6,first,Day,False,True,True
+115,-1,4.5,Crystal Palace,3.75,Tottenham Hotspur,1.85,0.4,2.57,0,1,0,0,0,1,,66,11,6.0,10,9,3,6,first,Night,False,False,False
+116,2,1.11,Liverpool,11.0,Fulham,26.0,2.6,0.17,2,0,1,1,0,0,"41,53",,15,8.0,6,8,4,3,first,Day,False,False,False
+117,0,1.4,Chelsea,5.25,Everton,8.5,2.33,1.0,0,0,0,0,0,0,,,12,5.0,5,5,2,5,first,Day,False,False,False
+118,0,1.66,Arsenal,4.2,Wolverhampton Wanderers,5.25,2.17,1.4,1,1,0,1,1,0,86,13,7,4.0,11,12,6,2,first,Day,True,False,True
+119,2,1.4,Manchester City,5.25,Manchester United,8.5,3.0,1.67,3,1,1,2,0,1,"12,48,86",58,12,,5,3,2,1,first,Day,True,False,True
+120,0,2.9,Brighton & Hove Albion,3.4,Leicester City,2.6,2.0,1.5,1,1,1,0,0,1,15,79,12,4.0,6,7,4,1,first,Day,False,False,False
+121,1,1.4,Everton,5.0,Cardiff City,9.0,2.17,0.2,1,0,0,1,0,0,59,,14,9.0,7,6,2,3,mid,Day,False,False,False
+122,1,2.62,Fulham,3.5,Southampton,2.8,0.8,0.67,3,2,2,1,1,1,"33,43,63","18,53",9,6.0,2,15,9,5,mid,Day,False,False,False
+123,0,1.4,Manchester United,5.25,Crystal Palace,8.0,2.0,1.0,0,0,0,0,0,0,,,10,6.0,10,12,3,3,mid,Day,False,False,False
+124,-3,6.5,Watford,4.33,Liverpool,1.55,2.0,2.33,0,3,0,0,0,3,,"67,76,89",6,,5,11,8,5,mid,Day,False,True,True
+125,-4,13.0,West Ham United,6.5,Manchester City,1.25,1.17,2.2,0,4,0,0,3,1,,"11,19,34,90'3",7,2.0,8,9,7,1,mid,Day,False,True,True
+126,2,2.8,Tottenham Hotspur,3.5,Chelsea,2.6,1.5,2.6,3,1,2,1,0,1,"8,16,54",85,16,10.0,4,8,3,4,mid,Night,False,True,True
+127,-1,3.5,AFC Bournemouth,3.75,Arsenal,1.95,1.83,2.0,1,2,1,0,1,1,45'1,"30,67",8,,5,16,5,8,mid,Day,False,False,False
+128,-2,1.5,Wolverhampton Wanderers,4.33,Huddersfield Town,8.0,1.33,0.4,0,2,0,0,1,1,,"6,74",10,4.0,3,11,7,5,mid,Day,False,False,False
+129,-1,2.9,Burnley,3.2,Newcastle United,2.75,0.8,0.6,1,2,1,0,2,0,40,"4,23",13,,5,12,4,5,mid,Night,False,False,False
+130,1,3.8,Cardiff City,3.25,Wolverhampton Wanderers,2.2,1.0,1.33,2,1,0,2,1,0,"65,77",18,12,4.0,7,14,5,6,mid,Night,False,False,False
+131,2,1.61,Crystal Palace,3.9,Burnley,6.5,0.33,0.71,2,0,1,1,0,0,"16,77",,21,10.0,10,3,0,2,mid,Day,False,False,False
+132,-1,2.5,Huddersfield Town,3.0,Brighton & Hove Albion,3.4,0.71,0.57,1,2,1,0,1,1,1,"45'4,69",6,3.0,2,10,7,6,mid,Day,False,False,False
+133,2,2.25,Leicester City,3.3,Watford,3.6,1.33,1.33,2,0,2,0,0,0,"12,23",,7,,4,7,0,8,mid,Day,False,False,False
+134,2,1.11,Manchester City,11.0,AFC Bournemouth,26.0,3.0,1.5,3,1,1,2,1,0,"16,57,79",44,12,7.0,8,4,2,4,mid,Day,False,False,False
+135,-3,2.5,Newcastle United,3.3,West Ham United,3.1,0.86,0.83,0,3,0,0,1,2,,"11,63,90'3",12,,7,8,5,3,mid,Day,False,True,True
+136,0,4.33,Southampton,3.6,Manchester United,1.95,0.67,1.43,2,2,2,0,2,0,"13,20","33,39",13,7.0,3,10,6,5,mid,Night,False,False,False
+137,2,1.18,Chelsea,8.0,Fulham,17.0,2.14,0.14,2,0,1,1,0,0,"4,82",,11,,4,9,5,6,mid,Day,True,False,True
+138,2,2.62,Arsenal,3.6,Tottenham Hotspur,2.75,2.0,2.63,4,2,1,3,2,0,"10,56,74,77","30,34",19,8.0,8,10,7,5,mid,Day,False,False,False
+139,1,1.4,Liverpool,5.0,Everton,9.0,2.67,1.0,1,0,0,1,0,0,90'6,,14,4.0,8,8,4,1,mid,Day,True,False,True
+140,1,1.66,AFC Bournemouth,3.8,Huddersfield Town,6.0,1.57,0.83,2,1,2,0,1,0,"5,22",38,7,,4,17,7,8,mid,Night,False,False,False
+141,2,3.0,Brighton & Hove Albion,3.1,Crystal Palace,2.7,1.83,1.0,3,1,3,0,0,1,"24,31,45'4",81,7,,4,14,6,5,mid,Night,False,True,True
+142,2,1.66,West Ham United,4.0,Cardiff City,5.75,1.0,0.17,3,1,0,3,0,1,"49,54,61",90'5,15,,10,8,6,4,mid,Night,False,True,True
+143,-1,11.0,Watford,6.0,Manchester City,1.3,1.71,2.33,1,2,0,1,1,1,85,"40,51",10,,3,13,8,11,mid,Night,True,False,True
+144,-2,14.0,Burnley,5.75,Liverpool,1.28,0.67,2.43,1,3,0,1,0,3,54,"62,69,90'1",10,,5,15,13,9,mid,Night,False,True,True
+145,0,3.0,Fulham,3.5,Leicester City,2.45,1.17,1.43,1,1,1,0,0,1,42,74,18,8.0,10,12,6,8,mid,Night,False,False,False
+146,1,5.0,Wolverhampton Wanderers,3.75,Chelsea,1.8,1.14,2.17,2,1,0,2,1,0,"59,63",18,6,,1,14,4,5,mid,Night,False,False,False
+147,0,1.6,Everton,4.0,Newcastle United,6.5,2.29,1.0,1,1,1,0,1,0,38,19,12,4.0,14,9,6,2,mid,Night,False,False,False
+148,0,2.45,Manchester United,3.5,Arsenal,3.0,1.83,2.17,2,2,1,1,1,1,"30,69","26,68",8,,4,7,5,4,mid,Night,False,False,False
+149,2,1.36,Tottenham Hotspur,5.25,Southampton,9.5,1.8,0.57,3,1,1,2,0,1,"9,51,55",90'3,12,,8,15,6,6,mid,Night,False,True,True
+150,-4,5.75,AFC Bournemouth,4.5,Liverpool,1.6,1.75,2.5,0,4,0,0,1,3,,"25,48,68,77",6,,6,9,5,6,mid,Day,False,False,False
+151,1,1.28,Arsenal,6.0,Huddersfield Town,12.0,2.13,0.71,1,0,0,1,0,0,83,,11,3.0,7,6,0,1,mid,Day,True,False,True
+152,1,2.9,Burnley,3.2,Brighton & Hove Albion,2.75,0.57,0.88,1,0,1,0,0,0,40,,9,,2,14,2,7,mid,Day,False,False,False
+153,1,2.9,Cardiff City,3.25,Southampton,2.7,1.25,0.5,1,0,0,1,0,0,74,,13,,7,8,2,7,mid,Day,False,False,False
+154,3,1.33,Manchester United,5.75,Fulham,10.0,1.71,0.13,4,1,3,1,0,1,"13,28,42,82",67,18,12.0,10,9,5,3,mid,Day,True,False,True
+155,1,2.3,West Ham United,3.4,Crystal Palace,3.4,1.25,0.88,3,2,0,3,1,1,"48,62,65","6,76",12,7.0,5,7,5,3,mid,Day,False,False,False
+156,2,4.0,Chelsea,3.8,Manchester City,1.95,2.25,2.43,2,0,1,1,0,0,"45,78",,7,6.0,1,11,5,13,mid,Night,False,False,False
+157,-2,3.8,Leicester City,3.75,Tottenham Hotspur,2.0,1.57,2.33,0,2,0,0,1,1,,"45'1,58",9,4.0,6,7,3,5,mid,Night,False,False,False
+158,-1,2.9,Newcastle United,3.2,Wolverhampton Wanderers,2.7,0.75,1.14,1,2,1,0,1,1,23,"17,90'4",10,,4,12,7,6,mid,Day,False,True,True
+159,0,1.8,Everton,3.75,Watford,5.0,2.13,1.14,2,2,1,1,0,2,"15,90'6","63,65",11,,6,11,4,6,mid,Night,True,False,True
+160,2,1.22,Manchester City,7.5,Everton,13.0,3.0,0.86,3,1,1,2,0,1,"22,50,69",65,10,6.0,6,8,3,2,mid,Day,False,False,False
+161,1,2.62,Crystal Palace,3.2,Leicester City,3.0,0.71,1.38,1,0,1,0,0,0,39,,7,,4,10,3,4,mid,Day,False,False,False
+162,-1,2.6,Huddersfield Town,3.1,Newcastle United,3.1,0.63,1.0,0,1,0,0,0,1,,55,13,6.0,10,8,6,1,mid,Day,False,False,False
+163,1,1.18,Tottenham Hotspur,8.0,Burnley,19.0,2.0,0.63,1,0,0,1,0,0,90'1,,10,4.0,8,3,0,3,mid,Day,True,False,True
+164,1,1.64,Watford,3.9,Cardiff City,6.0,1.5,0.14,3,2,1,2,0,2,"16,52,68","80,82",15,,5,8,4,0,mid,Day,False,True,True
+165,2,1.95,Wolverhampton Wanderers,3.6,AFC Bournemouth,4.33,1.38,1.29,2,0,1,1,0,0,"12,90'4",,8,5.0,5,9,4,3,mid,Day,True,False,True
+166,-2,2.9,Fulham,3.6,West Ham United,2.5,1.14,1.14,0,2,0,0,2,0,,"17,29",14,,6,6,4,4,mid,Night,False,False,False
+167,-1,7.5,Brighton & Hove Albion,4.5,Chelsea,1.5,2.0,1.86,1,2,0,1,2,0,66,"17,33",6,,4,8,4,1,mid,Day,False,False,False
+168,1,4.1,Southampton,3.9,Arsenal,1.9,0.71,2.0,3,2,2,1,1,1,"20,44,85","28,53",9,,4,9,5,5,mid,Day,True,False,True
+169,2,1.57,Liverpool,4.5,Manchester United,6.0,2.71,1.38,3,1,1,2,1,0,"24,73,80",33,23,12.0,13,6,3,2,mid,Day,True,False,True
+170,-2,7.0,Wolverhampton Wanderers,4.0,Liverpool,1.57,1.56,2.56,0,2,0,0,1,1,,"18,68",10,6.0,1,11,7,10,mid,Night,False,False,False
+171,2,1.25,Arsenal,6.5,Burnley,15.0,2.22,0.56,3,1,1,2,0,1,"14,48,90'1",63,8,,1,6,3,3,mid,Day,True,False,True
+172,2,1.9,AFC Bournemouth,3.7,Brighton & Hove Albion,4.33,1.56,0.78,2,0,1,1,0,0,"21,77",,11,,6,10,6,5,mid,Day,False,False,False
+173,-1,1.33,Chelsea,5.5,Leicester City,11.0,2.33,1.22,0,1,0,0,0,1,,51,14,6.0,9,6,4,5,mid,Day,False,False,False
+174,-2,3.1,Huddersfield Town,3.1,Southampton,2.6,0.56,0.44,1,3,0,1,2,1,58,"15,42,71",11,,8,13,7,2,mid,Day,False,False,False
+175,-1,1.14,Manchester City,10.0,Crystal Palace,21.0,3.0,0.78,2,3,1,1,2,1,"27,85","33,35,51",15,,13,6,4,0,mid,Day,True,False,True
+176,0,2.0,Newcastle United,3.6,Fulham,4.0,0.67,0.11,0,0,0,0,0,0,,,6,0.0,6,3,3,0,mid,Day,False,False,False
+177,-2,2.37,West Ham United,3.5,Watford,3.1,1.44,1.13,0,2,0,0,1,1,,"30,87",13,,10,7,6,4,mid,Day,False,True,True
+178,-4,6.5,Cardiff City,4.2,Manchester United,1.57,1.44,1.22,1,5,1,0,3,2,38,"3,29,41,57,90",9,4.0,4,14,10,7,mid,Night,False,True,True
+179,-4,3.25,Everton,3.5,Tottenham Hotspur,2.3,2.0,2.4,2,6,1,1,3,3,"21,51","27,35,42,48,61,74",9,4.0,2,16,9,1,mid,Day,False,False,False
+180,0,3.25,Fulham,3.4,Wolverhampton Wanderers,2.37,1.0,1.38,1,1,0,1,0,1,74,85,11,,2,13,6,0,mid,Day,False,True,True
+181,-4,4.33,Burnley,3.5,Everton,1.95,0.88,0.75,1,5,1,0,3,2,36,"2,13,22,71,90'3",11,,5,10,7,7,mid,Day,False,True,True
+182,0,1.66,Crystal Palace,4.0,Cardiff City,5.75,1.0,0.13,0,0,0,0,0,0,,,18,,12,9,5,1,mid,Day,False,False,False
+183,1,9.5,Leicester City,5.25,Manchester City,1.36,1.38,2.13,2,1,1,1,1,0,"19,81",14,10,6.0,3,9,5,7,mid,Day,True,False,True
+184,4,1.16,Liverpool,8.5,Newcastle United,19.0,2.75,1.25,4,0,1,3,0,0,"11,47,79,85",,13,9.0,10,7,3,2,mid,Day,True,False,True
+185,2,1.25,Manchester United,6.5,Huddersfield Town,15.0,1.88,0.63,3,1,1,2,0,1,"28,64,78",88,13,,5,10,3,3,mid,Day,False,True,True
+186,5,1.36,Tottenham Hotspur,5.5,AFC Bournemouth,9.0,2.14,1.13,5,0,3,2,0,0,"16,23,35,61,70",,10,,3,11,5,4,mid,Day,False,False,False
+187,0,5.25,Brighton & Hove Albion,3.9,Arsenal,1.72,1.75,1.75,1,1,1,0,1,0,35,7,12,4.0,4,6,5,9,mid,Night,False,False,False
+188,-1,5.25,Watford,3.8,Chelsea,1.75,1.67,2.0,1,2,1,0,1,1,45'3,"45'1,58",9,3.0,3,10,5,4,mid,Night,False,False,False
+189,-1,2.3,Southampton,3.5,West Ham United,3.3,1.0,1.38,1,2,0,1,0,2,50,"53,59",9,6.0,4,12,6,6,mid,Night,False,False,False
+190,1,3.25,Brighton & Hove Albion,3.4,Everton,2.14,1.67,1.0,1,0,0,1,0,0,59,,7,,6,11,5,6,mid,Day,False,False,False
+191,1,2.0,Fulham,3.4,Huddersfield Town,3.75,1.0,0.56,1,0,0,1,0,0,90'1,,13,6.0,4,7,6,3,mid,Day,True,False,True
+192,-1,1.55,Leicester City,4.0,Cardiff City,6.0,1.56,0.22,0,1,0,0,0,1,,90'2,11,8.0,10,7,4,4,mid,Day,False,True,True
+193,-2,1.33,Tottenham Hotspur,5.0,Wolverhampton Wanderers,8.5,2.25,1.33,1,3,1,0,0,3,22,"72,83,87",8,,6,9,5,7,mid,Day,False,True,True
+194,0,1.85,Watford,3.6,Newcastle United,4.0,1.5,1.11,1,1,0,1,1,0,82,29,8,6.0,3,7,3,6,mid,Day,True,False,True
+195,4,1.5,Liverpool,4.5,Arsenal,5.75,2.78,1.67,5,1,4,1,1,0,"14,16,32,45'2,65",11,14,11.0,5,6,3,3,mid,Night,False,False,False
+196,-1,4.75,Crystal Palace,4.0,Chelsea,1.66,1.0,2.11,0,1,0,0,0,1,,51,3,,3,9,5,4,mid,Day,False,False,False
+197,2,3.3,Burnley,3.2,West Ham United,2.25,0.78,1.56,2,0,2,0,0,0,"15,34",,15,6.0,5,7,5,5,mid,Day,False,False,False
+198,-2,10.0,Southampton,5.25,Manchester City,1.3,0.89,1.89,1,3,1,0,3,0,37,"10,45,45'3",6,,3,11,7,8,mid,Day,False,False,False
+199,3,1.33,Manchester United,4.75,AFC Bournemouth,10.0,2.0,1.0,4,1,3,1,1,0,"5,33,45,72",45'2,9,9.0,4,6,4,5,mid,Day,False,False,False
+200,-1,2.0,Everton,3.5,Leicester City,4.2,1.8,1.4,0,1,0,0,0,1,,58,10,,6,8,5,5,mid,Day,False,False,False
+201,3,1.33,Arsenal,5.75,Fulham,9.5,2.3,0.2,4,1,1,3,0,1,"25,55,79,83",69,14,,8,9,5,3,mid,Day,True,False,True
+202,-3,7.5,Cardiff City,4.5,Tottenham Hotspur,1.5,1.3,2.45,0,3,0,0,3,0,,"3,12,26",6,,5,11,5,3,mid,Night,False,False,False
+203,0,1.28,Chelsea,6.5,Southampton,11.0,2.1,0.7,0,0,0,0,0,0,,,9,7.0,7,6,3,2,mid,Night,False,False,False
+204,-1,2.14,Huddersfield Town,3.1,Burnley,4.2,0.5,0.5,1,2,1,0,1,1,33,"40,74",6,3.0,5,16,9,2,mid,Night,False,False,False
+205,0,1.95,West Ham United,3.75,Brighton & Hove Albion,4.0,1.3,0.7,2,2,0,2,0,2,"66,68","56,58",13,,1,9,7,5,mid,Night,False,False,False
+206,-2,2.0,Wolverhampton Wanderers,3.4,Crystal Palace,4.33,1.4,1.0,0,2,0,0,0,2,,"83,90'5",7,2.0,3,11,5,10,mid,Night,False,True,True
+207,0,2.6,AFC Bournemouth,3.6,Watford,2.75,1.7,1.33,3,3,3,0,3,0,"34,37,40","14,27,38",21,,4,10,4,2,mid,Night,False,False,False
+208,-2,6.0,Newcastle United,4.2,Manchester United,1.61,0.7,1.4,0,2,0,0,0,2,,"64,80",12,4.0,1,14,8,2,mid,Night,False,True,True
+209,1,2.04,Manchester City,3.8,Liverpool,3.6,2.7,2.6,2,1,1,1,0,1,"40,72",64,9,5.0,2,8,6,1,mid,Night,False,False,False
+210,1,3.5,West Ham United,4.0,Arsenal,2.05,1.27,1.5,1,0,0,1,0,0,48,,11,4.0,7,11,3,3,mid,Day,False,False,False
+211,-1,11.0,Brighton & Hove Albion,6.0,Liverpool,1.3,1.8,2.36,0,1,0,0,0,1,,50,6,0.0,2,9,4,7,mid,Day,False,False,False
+212,1,2.4,Burnley,3.3,Fulham,3.25,1.0,0.18,2,1,2,0,1,0,"20,23",2,7,2.0,2,9,5,6,mid,Day,False,False,False
+213,0,2.25,Cardiff City,3.25,Huddersfield Town,3.6,1.18,0.5,0,0,0,0,0,0,,,0,,3,7,3,10,mid,Day,False,False,False
+214,-1,2.25,Crystal Palace,3.4,Watford,3.5,0.9,1.3,1,2,1,0,0,2,38,"67,74",13,,7,12,3,7,mid,Day,False,False,False
+215,-1,1.95,Leicester City,3.5,Southampton,4.33,1.4,0.73,1,2,0,1,2,0,58,"11,45'2",15,7.0,10,7,4,3,mid,Day,False,False,False
+216,1,1.22,Chelsea,7.0,Newcastle United,15.0,2.0,1.1,2,1,1,1,1,0,"9,57",40,9,,8,9,3,5,mid,Night,False,False,False
+217,2,1.75,Everton,4.0,AFC Bournemouth,4.8,1.64,0.9,2,0,0,2,0,0,"61,90'5",,12,,5,15,8,9,mid,Day,True,False,True
+218,-1,2.05,Tottenham Hotspur,3.7,Manchester United,3.75,2.0,1.55,0,1,0,0,1,0,,44,18,,7,12,9,4,mid,Day,False,False,False
+219,3,1.18,Manchester City,8.0,Wolverhampton Wanderers,17.0,2.73,1.5,3,0,2,1,0,0,"10,39,78",,17,,12,2,0,1,mid,Night,False,False,False
+220,1,2.37,Wolverhampton Wanderers,3.2,Leicester City,3.4,1.27,1.55,4,3,2,2,0,3,"4,12,64,90'3","47,51,87",11,,5,12,7,9,mid,Day,True,True,True
+221,2,2.37,AFC Bournemouth,3.7,West Ham United,3.0,1.64,1.4,2,0,0,2,0,0,"53,90'1",,10,5.0,2,8,2,3,mid,Day,True,False,True
+222,1,1.2,Liverpool,7.5,Crystal Palace,17.0,2.8,1.18,4,3,0,4,1,2,"46,53,75,90'3","34,65,90'5",17,10.0,8,7,4,3,mid,Day,True,True,True
+223,1,1.3,Manchester United,5.75,Brighton & Hove Albion,12.0,2.1,0.73,2,1,2,0,0,1,"27,42",72,15,,6,7,4,5,mid,Day,False,False,False
+224,3,1.95,Newcastle United,3.4,Cardiff City,4.5,0.64,0.5,3,0,1,2,0,0,"24,63,90'3",,12,,7,7,2,10,mid,Day,True,False,True
+225,1,2.75,Southampton,3.4,Everton,2.7,0.8,0.9,2,1,0,2,0,1,"50,64",90'1,9,,7,4,3,6,mid,Day,False,True,True
+226,0,1.65,Watford,4.0,Burnley,5.75,1.45,0.73,0,0,0,0,0,0,,,8,5.0,1,11,4,7,mid,Day,False,False,False
+227,2,3.1,Arsenal,3.6,Chelsea,2.37,2.36,2.2,2,0,2,0,0,0,"14,39",,13,,5,11,2,6,mid,Night,False,False,False
+228,-3,21.0,Huddersfield Town,8.5,Manchester City,1.16,0.45,2.0,0,3,0,0,1,2,,"18,54,56",6,,1,11,5,4,mid,Day,False,False,False
+229,-1,5.25,Fulham,3.8,Tottenham Hotspur,1.75,1.2,2.5,1,2,1,0,0,2,17,"51,90'3",10,,7,12,6,10,mid,Day,False,True,True
+230,1,1.22,Arsenal,7.0,Cardiff City,15.0,2.42,0.45,2,1,0,2,0,1,"66,83",90'3,10,5.0,4,12,3,7,mid,Night,True,True,True
+231,2,2.37,Fulham,3.3,Brighton & Hove Albion,3.3,1.09,0.67,4,2,0,4,2,0,"47,58,74,79","3,17",18,9.0,10,11,7,1,mid,Night,False,False,False
+232,-1,4.0,Huddersfield Town,3.3,Everton,2.1,0.42,0.82,0,1,0,0,1,0,,3,9,,3,10,6,4,mid,Night,False,False,False
+233,3,2.1,Wolverhampton Wanderers,3.5,West Ham United,3.75,1.42,1.27,3,0,0,3,0,0,"66,80,86",,14,10.0,5,4,0,1,mid,Night,True,False,True
+234,0,1.28,Manchester United,6.0,Burnley,12.0,2.18,0.75,2,2,0,2,0,2,"87,90'2","51,81",21,10.0,11,5,5,3,mid,Night,True,True,True
+235,1,19.0,Newcastle United,8.0,Manchester City,1.18,0.83,2.09,2,1,0,2,1,0,"66,80",1,6,3.0,1,8,5,8,mid,Night,True,False,True
+236,4,5.25,AFC Bournemouth,4.2,Chelsea,1.66,1.75,2.0,4,0,0,4,0,0,"47,63,74,90'5",,10,,3,10,8,7,mid,Night,True,False,True
+237,0,2.4,Southampton,3.4,Crystal Palace,3.2,1.0,1.08,1,1,0,1,1,0,77,41,10,,3,13,4,8,mid,Night,False,False,False
+238,0,1.22,Liverpool,7.0,Leicester City,15.0,2.82,1.42,1,1,1,0,1,0,3,45'2,9,4.0,7,5,3,1,mid,Night,False,False,False
+239,1,1.66,Tottenham Hotspur,4.0,Watford,5.75,1.8,1.45,2,1,0,2,1,0,"80,87",38,10,4.0,9,7,2,5,mid,Night,True,False,True
+240,1,1.44,Tottenham Hotspur,4.5,Newcastle United,9.0,1.91,1.0,1,0,0,1,0,0,83,,13,5.0,6,6,3,3,last,Day,True,False,True
+241,0,2.55,Brighton & Hove Albion,3.3,Watford,3.0,1.64,1.33,0,0,0,0,0,0,,,18,5.0,7,6,0,0,last,Day,False,False,False
+242,0,2.55,Burnley,3.5,Southampton,2.87,1.18,0.92,1,1,0,1,0,1,90'4,55,10,,4,8,5,2,last,Day,True,False,True
+243,5,1.2,Chelsea,7.5,Huddersfield Town,19.0,2.08,0.55,5,0,2,3,0,0,"16,45'1,66,69,86",,16,,11,4,3,2,last,Day,True,False,True
+244,2,2.05,Crystal Palace,3.5,Fulham,4.0,0.82,0.17,2,0,1,1,0,0,"25,87",,12,7.0,11,8,0,1,last,Day,True,False,True
+245,-2,2.37,Everton,3.4,Wolverhampton Wanderers,3.25,1.75,1.36,1,3,1,0,2,1,27,"7,45,66",7,5.0,3,7,5,1,last,Day,False,False,False
+246,2,3.25,Cardiff City,3.5,AFC Bournemouth,2.3,1.17,0.82,2,0,1,1,0,0,"5,46",,6,,6,8,3,7,last,Night,False,False,False
+247,-1,3.6,Leicester City,3.5,Manchester United,2.15,1.27,1.67,0,1,0,0,1,0,,9,15,,7,9,7,2,last,Day,False,False,False
+248,2,1.33,Manchester City,6.0,Arsenal,9.0,2.75,1.36,3,1,2,1,1,0,"1,44,61",11,16,13.0,4,3,3,2,last,Day,False,False,False
+249,0,8.0,West Ham United,5.25,Liverpool,1.4,1.42,2.42,1,1,1,0,1,0,28,22,10,,2,10,7,5,last,Night,False,False,False
+250,-2,10.0,Everton,6.25,Manchester City,1.3,1.62,1.92,0,2,0,0,1,1,,"45'2,90'7",2,,5,9,5,6,last,Night,False,True,True
+251,-3,5.5,Fulham,4.4,Manchester United,1.61,1.25,1.77,0,3,0,0,2,1,,"14,23,65",11,4.0,5,12,8,4,last,Day,False,False,False
+252,0,2.1,Crystal Palace,3.5,West Ham United,3.75,1.0,1.17,1,1,0,1,1,0,76,27,16,6.0,10,5,5,4,last,Day,False,False,False
+253,-1,5.75,Huddersfield Town,4.4,Arsenal,1.6,0.38,1.25,1,2,0,1,2,0,90'3,"16,44",14,,5,9,5,0,last,Day,True,False,True
+254,3,1.22,Liverpool,7.5,AFC Bournemouth,14.0,2.67,0.75,3,0,2,1,0,0,"24,34,48",,16,,8,8,3,5,last,Day,False,False,False
+255,-1,1.75,Southampton,3.9,Cardiff City,5.0,1.0,0.42,1,2,0,1,0,2,90'1,"69,90'3",13,,8,7,4,2,last,Day,True,True,True
+256,1,2.35,Watford,3.5,Everton,3.2,1.42,1.0,1,0,0,1,0,0,65,,6,3.0,8,9,5,2,last,Day,False,False,False
+257,-2,2.05,Brighton & Hove Albion,3.3,Burnley,4.2,1.58,0.77,1,3,0,1,1,2,76,"26,61,74",11,7.0,9,8,6,3,last,Night,False,False,False
+258,2,1.7,Tottenham Hotspur,3.9,Leicester City,5.5,2.0,1.38,3,1,1,2,0,1,"33,63,90'1",76,8,6.0,2,19,10,9,last,Day,True,False,True
+259,6,1.5,Manchester City,4.75,Chelsea,7.0,2.77,1.83,6,0,4,2,0,0,"4,13,19,25,56,80",,15,10.0,2,8,5,2,last,Day,True,False,True
+260,0,1.7,Wolverhampton Wanderers,3.75,Newcastle United,5.75,1.54,0.92,1,1,0,1,0,1,90'5,56,15,,13,6,4,1,last,Night,True,False,True
+261,-4,3.1,Cardiff City,3.4,Watford,2.45,1.31,1.31,1,5,0,1,1,4,82,"18,61,63,73,90'1",12,7.0,3,12,8,3,last,Night,True,True,True
+262,2,1.95,West Ham United,3.8,Fulham,4.0,1.38,0.15,3,1,2,1,1,0,"29,40,90'1",3,17,,12,8,6,0,last,Night,True,False,True
+263,1,5.75,Burnley,3.8,Tottenham Hotspur,1.7,1.17,2.54,2,1,0,2,0,1,"57,83",65,8,,7,12,7,6,last,Day,True,False,True
+264,0,2.87,AFC Bournemouth,3.4,Wolverhampton Wanderers,2.62,1.85,1.5,1,1,1,0,0,1,14,83,9,,9,8,3,8,last,Day,False,True,True
+265,2,1.83,Newcastle United,3.5,Huddersfield Town,5.25,1.0,0.5,2,0,0,2,0,0,"46,52",,24,13.0,12,2,0,0,last,Day,False,False,False
+266,-3,2.25,Leicester City,3.4,Crystal Palace,3.5,1.17,1.08,1,4,0,1,1,3,64,"40,70,81,90'3",16,6.0,8,8,6,3,last,Night,False,True,True
+267,2,1.5,Arsenal,4.75,Southampton,7.0,2.46,0.92,2,0,2,0,0,0,"6,17",,9,,6,8,5,4,last,Day,False,False,False
+268,0,3.1,Manchester United,3.5,Liverpool,2.37,2.08,2.31,0,0,0,0,0,0,,,5,,3,6,2,7,last,Day,False,False,False
+269,-3,3.75,Cardiff City,3.4,Everton,2.15,1.21,0.92,0,3,0,0,1,2,,"41,66,90'3",6,,3,10,5,4,last,Night,False,True,True
+270,1,5.0,Huddersfield Town,3.5,Wolverhampton Wanderers,1.85,0.36,1.46,1,0,0,1,0,0,90'1,,13,4.0,3,6,0,5,last,Night,True,False,True
+271,1,1.9,Leicester City,3.5,Brighton & Hove Albion,4.6,1.08,0.62,2,1,1,1,0,1,"10,63",66,13,,4,13,4,8,last,Night,False,False,False
+272,2,2.15,Newcastle United,3.3,Burnley,3.9,1.14,0.93,2,0,2,0,0,0,"24,38",,13,,4,9,3,7,last,Night,False,False,False
+273,4,1.44,Arsenal,5.0,AFC Bournemouth,7.5,2.5,0.69,5,1,2,3,1,0,"4,27,47,59,78",30,12,8.0,9,9,6,4,last,Night,False,False,False
+274,2,1.9,Southampton,3.7,Fulham,4.33,0.92,0.14,2,0,2,0,0,0,"23,40",,12,5.0,7,9,5,4,last,Night,False,False,False
+275,-2,3.25,Crystal Palace,3.5,Manchester United,2.3,1.0,1.86,1,3,0,1,1,2,66,"33,52,83",14,,5,10,5,6,last,Night,False,True,True
+276,2,2.3,Chelsea,3.5,Tottenham Hotspur,3.25,2.15,2.36,2,0,0,2,0,0,"57,84",,10,,2,6,0,2,last,Night,True,False,True
+277,5,1.28,Liverpool,6.0,Watford,12.0,2.69,1.43,5,0,2,3,0,0,"9,20,66,79,82",,15,11.0,6,5,4,4,last,Night,True,False,True
+278,1,1.16,Manchester City,9.0,West Ham United,19.0,2.79,1.15,1,0,0,1,0,0,59,,18,8.0,13,3,2,2,last,Night,False,False,False
+279,0,2.05,Tottenham Hotspur,3.7,Arsenal,3.75,2.08,1.38,1,1,0,1,1,0,74,16,11,4.0,3,7,5,4,last,Day,False,False,False
+280,-1,13.0,AFC Bournemouth,7.5,Manchester City,1.22,1.79,2.0,0,1,0,0,0,1,,55,0,,0,18,8,14,last,Day,False,False,False
+281,1,1.85,Brighton & Hove Albion,3.4,Huddersfield Town,5.25,1.46,0.46,1,0,0,1,0,0,79,,11,5.0,6,5,5,3,last,Day,False,False,False
+282,-2,2.8,Burnley,3.3,Crystal Palace,2.75,1.31,1.21,1,3,0,1,1,2,90,"15,48,76",15,5.0,8,9,5,5,last,Day,True,False,True
+283,1,1.45,Manchester United,4.5,Southampton,8.5,2.0,0.86,3,2,0,3,1,1,"53,59,88","26,75",16,,9,8,4,7,last,Day,True,False,True
+284,2,1.5,Wolverhampton Wanderers,4.33,Cardiff City,8.0,1.5,0.62,2,0,2,0,0,0,"16,18",,12,,7,9,5,8,last,Day,False,False,False
+285,2,2.15,West Ham United,3.5,Newcastle United,3.6,1.5,0.92,2,0,2,0,0,0,"7,42",,8,5.0,1,9,3,6,last,Night,False,False,False
+286,1,2.55,Watford,3.3,Leicester City,3.0,1.54,1.29,2,1,1,1,0,1,"5,90'2",75,6,6.0,1,9,3,5,last,Day,True,False,True
+287,-1,6.5,Fulham,4.5,Chelsea,1.53,1.15,1.69,1,2,1,0,2,0,27,"20,31",10,6.0,5,13,8,4,last,Day,False,False,False
+288,0,6.0,Everton,4.2,Liverpool,1.61,1.5,2.21,0,0,0,0,0,0,,,7,,3,7,4,7,last,Day,False,False,False
+289,-1,1.83,Crystal Palace,3.6,Brighton & Hove Albion,5.0,0.93,0.57,1,2,0,1,1,1,50,"19,74",9,4.0,8,5,4,0,last,Day,False,False,False
+290,2,3.6,Cardiff City,3.5,West Ham United,2.15,1.13,1.07,2,0,1,1,0,0,"4,52",,14,8.0,7,8,3,5,last,Day,False,False,False
+291,-2,3.4,Huddersfield Town,3.3,AFC Bournemouth,2.35,0.53,0.64,0,2,0,0,1,1,,"20,66",5,2.0,6,9,6,5,last,Day,False,False,False
+292,2,1.57,Leicester City,4.5,Fulham,6.0,1.21,0.13,3,1,1,2,0,1,"21,78,86",51,17,9.0,6,5,4,5,last,Day,True,False,True
+293,1,2.8,Newcastle United,3.25,Everton,2.8,1.27,1.07,3,2,0,3,2,0,"65,81,84","18,32",15,,8,6,4,2,last,Day,True,False,True
+294,1,4.5,Southampton,3.8,Tottenham Hotspur,1.85,1.07,2.2,2,1,0,2,1,0,"76,81",26,9,5.0,1,15,6,10,last,Day,True,False,True
+295,2,1.16,Manchester City,9.0,Watford,19.0,2.8,1.33,3,1,0,3,0,1,"46,50,59",66,17,,9,2,2,1,last,Night,False,False,False
+296,2,1.16,Liverpool,8.5,Burnley,21.0,2.71,0.87,4,2,2,2,1,1,"19,29,67,90'3","6,90'1",14,6.0,7,3,3,3,last,Day,True,True,True
+297,0,1.55,Chelsea,4.2,Wolverhampton Wanderers,7.0,2.21,1.36,1,1,0,1,0,1,90'2,56,9,7.0,13,3,2,0,last,Day,True,False,True
+298,2,2.4,Arsenal,3.6,Manchester United,3.0,2.53,1.93,2,0,1,1,0,0,"12,69",,11,4.0,5,12,5,2,last,Day,False,False,False
+299,0,2.05,AFC Bournemouth,3.6,Newcastle United,3.8,1.67,0.86,2,2,0,2,1,1,"48,81","45'5,90'4",11,4.0,6,9,5,6,last,Day,True,True,True
+300,-1,3.1,Burnley,3.4,Leicester City,2.45,1.21,1.2,1,2,1,0,1,1,38,"33,90",10,,9,5,5,3,last,Day,False,True,True
+301,1,1.55,West Ham United,4.2,Huddersfield Town,7.0,1.6,0.43,4,3,1,3,2,1,"15,75,84,90'1","17,30,65",11,,5,12,6,8,last,Day,True,False,True
+302,-1,12.0,Fulham,7.0,Liverpool,1.25,1.07,2.13,1,2,0,1,1,1,74,"26,81",5,3.0,1,14,7,10,last,Day,False,True,True
+303,2,4.0,Everton,3.8,Chelsea,1.95,1.47,1.79,2,0,0,2,0,0,"49,72",,13,9.0,3,11,6,4,last,Day,False,False,False
+304,-2,21.0,Fulham,11.0,Manchester City,1.12,1.0,2.07,0,2,0,0,2,0,,"5,27",4,,0,16,8,11,last,Day,False,False,False
+305,-1,2.55,Brighton & Hove Albion,3.2,Southampton,3.1,1.57,0.8,0,1,0,0,0,1,,53,11,2.0,6,7,3,5,last,Day,False,False,False
+306,2,3.2,Burnley,3.25,Wolverhampton Wanderers,2.45,1.13,1.33,2,0,1,1,0,0,"2,77",,5,,1,5,2,5,last,Day,False,False,False
+307,2,1.45,Crystal Palace,4.4,Huddersfield Town,9.0,0.87,0.4,2,0,0,2,0,0,"76,88",,12,,5,13,6,5,last,Day,True,False,True
+308,2,1.85,Leicester City,3.8,AFC Bournemouth,4.5,1.33,0.8,2,0,1,1,0,0,"11,82",,14,5.0,6,7,3,1,last,Day,True,False,True
+309,1,1.44,Manchester United,4.75,Watford,8.0,2.07,1.25,2,1,1,1,0,1,"28,72",90,7,6.0,3,15,9,5,last,Day,False,True,True
+310,-2,2.55,West Ham United,3.5,Everton,2.9,1.69,1.0,0,2,0,0,2,0,,"5,33",4,2.0,4,14,10,9,last,Night,False,False,False
+311,-1,9.0,Cardiff City,4.5,Chelsea,1.44,1.25,1.67,1,2,0,1,0,2,46,"84,90'1",8,,2,13,4,7,last,Day,False,True,True
+312,1,1.61,Liverpool,4.2,Tottenham Hotspur,6.0,2.73,2.06,2,1,1,1,0,1,"16,90",70,12,,10,10,3,3,last,Day,True,False,True
+313,2,1.36,Arsenal,5.25,Newcastle United,9.5,2.56,0.87,2,0,1,1,0,0,"30,83",,6,,6,4,2,2,last,Night,True,False,True
+314,3,1.72,Watford,4.0,Fulham,5.0,1.64,0.13,4,1,1,3,1,0,"23,63,69,75",33,9,8.0,6,11,8,4,last,Night,False,False,False
+315,1,4.0,Wolverhampton Wanderers,3.6,Manchester United,2.0,1.6,1.81,2,1,1,1,1,0,"25,77",13,8,,3,12,5,5,last,Night,False,False,False
+316,3,1.25,Chelsea,6.5,Brighton & Hove Albion,15.0,2.13,0.73,3,0,1,2,0,0,"38,60,63",,13,,7,4,2,1,last,Night,False,False,False
+317,2,1.45,Tottenham Hotspur,5.0,Crystal Palace,7.5,2.0,1.33,2,0,0,2,0,0,"55,80",,20,,8,6,2,2,last,Night,True,False,True
+318,2,1.06,Manchester City,17.0,Cardiff City,34.0,2.81,0.57,2,0,2,0,0,0,"6,44",,26,,17,4,2,4,last,Night,False,False,False
+319,-2,9.0,Southampton,5.0,Liverpool,1.4,1.2,2.19,1,3,1,0,1,2,9,"36,80,86",8,,7,13,6,5,last,Night,False,True,True
+320,-2,2.1,AFC Bournemouth,3.6,Burnley,3.75,1.63,0.81,1,3,1,0,2,1,4,"18,20,56",8,,3,8,4,6,last,Day,False,False,False
+321,-3,5.0,Huddersfield Town,4.0,Leicester City,1.72,0.5,1.31,1,4,0,1,1,3,52,"24,48,79,84",8,,8,17,10,5,last,Day,False,True,True
+322,-1,2.6,Newcastle United,3.25,Crystal Palace,3.0,1.38,1.25,0,1,0,0,0,1,,81,15,,9,4,2,4,last,Day,False,True,True
+323,1,3.0,Everton,3.75,Arsenal,2.35,1.56,1.36,1,0,1,0,0,0,10,,16,,9,6,3,6,last,Day,False,False,False
+324,2,1.33,Chelsea,5.75,West Ham United,9.5,2.19,1.0,2,0,1,1,0,0,"24,90",,14,,7,6,3,4,last,Night,True,False,True
+325,-1,1.66,Leicester City,4.0,Newcastle United,5.75,1.44,0.81,0,1,0,0,1,0,,32,12,6.0,2,11,6,3,last,Night,False,False,False
+326,4,1.22,Tottenham Hotspur,7.0,Huddersfield Town,15.0,2.07,0.38,4,0,2,2,0,0,"24,27,87,90'3",,14,,4,7,2,2,last,Day,True,False,True
+327,-5,2.3,Brighton & Hove Albion,3.4,AFC Bournemouth,3.4,1.47,0.75,0,5,0,0,1,4,,"33,55,74,82,90'2",5,2.0,4,12,8,1,last,Day,False,True,True
+328,2,1.9,Burnley,3.6,Cardiff City,4.5,1.25,0.53,2,0,1,1,0,0,"31,90'2",,14,,8,10,3,4,last,Day,True,False,True
+329,2,5.0,Fulham,4.0,Everton,1.75,0.94,1.13,2,0,0,2,0,0,"46,69",,13,,7,8,2,3,last,Day,False,False,False
+330,2,2.6,Southampton,3.25,Wolverhampton Wanderers,3.0,1.13,1.25,3,1,2,1,1,0,"2,30,71",28,11,7.0,4,11,3,9,last,Day,False,False,False
+331,1,1.4,Manchester United,5.25,West Ham United,8.5,2.13,0.94,2,1,1,1,0,1,"19,80",49,10,,3,11,5,11,last,Day,True,False,True
+332,-2,11.0,Crystal Palace,6.0,Manchester City,1.3,1.0,2.13,1,3,0,1,1,2,81,"15,63,90",6,,2,14,7,9,last,Day,True,True,True
+333,2,1.66,Liverpool,4.2,Chelsea,5.25,2.75,1.75,2,0,0,2,0,0,"51,53",,11,,9,6,4,2,last,Day,False,False,False
+334,-1,3.2,Watford,3.75,Arsenal,2.25,1.73,1.27,0,1,0,0,1,0,,10,7,4.0,6,12,6,4,last,Night,False,False,False
+335,-2,2.0,Brighton & Hove Albion,3.3,Cardiff City,4.5,1.38,0.5,0,2,0,0,1,1,,"22,50",11,,5,7,4,4,last,Night,False,False,False
+336,1,1.3,Manchester City,6.0,Tottenham Hotspur,11.0,2.82,1.94,1,0,1,0,0,0,5,,11,,4,8,5,4,last,Day,False,False,False
+337,-1,1.65,AFC Bournemouth,4.4,Fulham,5.25,1.53,0.12,0,1,0,0,0,1,,53,12,,3,12,6,7,last,Day,False,False,False
+338,-1,4.4,Huddersfield Town,3.9,Watford,1.85,0.47,1.18,1,2,0,1,1,1,90'3,"5,80",9,,2,11,7,2,last,Day,True,True,True
+339,0,3.3,West Ham United,3.5,Leicester City,2.3,1.59,1.41,2,2,1,1,0,2,"37,82","67,90'2",9,,6,11,6,8,last,Day,True,True,True
+340,0,1.75,Wolverhampton Wanderers,3.5,Brighton & Hove Albion,6.0,1.69,0.69,0,0,0,0,0,0,,,20,,14,5,0,1,last,Day,False,False,False
+341,2,2.55,Newcastle United,3.2,Southampton,3.1,1.29,0.94,3,1,2,1,0,1,"27,31,86",59,11,,4,11,4,11,last,Day,True,False,True
+342,4,3.25,Everton,3.5,Manchester United,2.3,1.65,1.71,4,0,2,2,0,0,"13,28,56,64",,12,,10,7,2,2,last,Day,False,False,False
+343,-1,1.53,Arsenal,4.6,Crystal Palace,6.5,2.59,1.35,2,3,0,2,1,2,"47,77","17,61,69",11,6.0,8,13,8,3,last,Day,False,False,False
+344,-2,17.0,Cardiff City,7.5,Liverpool,1.2,1.18,2.24,0,2,0,0,0,2,,"57,81",5,3.0,5,15,7,10,last,Day,False,True,True
+345,0,1.25,Chelsea,6.25,Burnley,15.0,2.24,0.94,2,2,2,0,2,0,"12,14","8,24",18,10.0,10,6,4,1,last,Night,False,False,False
+346,0,2.25,Watford,3.5,Southampton,3.4,1.63,0.88,1,1,0,1,1,0,90,1,8,5.0,3,8,5,4,last,Night,True,False,True
+347,1,1.28,Tottenham Hotspur,6.0,Brighton & Hove Albion,13.0,2.13,0.71,1,0,0,1,0,0,88,,18,6.0,6,6,2,3,last,Night,True,False,True
+348,2,2.9,Wolverhampton Wanderers,3.5,Arsenal,2.55,1.65,1.38,3,1,3,0,0,1,"28,37,45'2",80,9,4.0,5,6,2,5,last,Night,False,True,True
+349,-2,7.5,Manchester United,5.0,Manchester City,1.44,2.19,2.19,0,2,0,0,0,2,,"54,66",8,2.0,1,9,6,1,last,Night,False,False,False
+350,5,1.07,Liverpool,15.0,Huddersfield Town,41.0,2.76,0.35,5,0,3,2,0,0,"1,23,45'1,66,83",,20,8.0,4,4,2,4,last,Night,True,False,True
+351,-1,1.4,Tottenham Hotspur,5.5,West Ham United,7.5,2.18,0.88,0,1,0,0,0,1,,67,9,,2,13,8,7,last,Day,False,False,False
+352,0,2.62,Crystal Palace,3.5,Everton,2.8,0.94,1.06,0,0,0,0,0,0,,,6,,5,12,4,10,last,Day,False,False,False
+353,1,2.4,Fulham,3.6,Cardiff City,3.0,1.06,0.65,1,0,0,1,0,0,79,,8,,10,11,9,3,last,Day,False,False,False
+354,0,1.9,Southampton,3.9,AFC Bournemouth,4.1,1.24,0.88,3,3,1,2,2,1,"12,55,67","20,32,86",17,8.0,9,10,6,3,last,Day,False,True,True
+355,-1,2.62,Watford,3.3,Wolverhampton Wanderers,2.9,1.59,1.18,1,2,0,1,1,1,49,"41,77",7,2.0,4,8,5,5,last,Day,False,False,False
+356,0,2.3,Brighton & Hove Albion,3.2,Newcastle United,3.6,1.29,0.94,1,1,0,1,1,0,75,18,8,3.0,7,5,2,4,last,Day,False,False,False
+357,3,2.75,Leicester City,3.6,Arsenal,2.6,1.35,1.29,3,0,0,3,0,0,"59,86,90'5",,19,,8,5,2,6,last,Day,True,False,True
+358,-1,23.0,Burnley,9.0,Manchester City,1.14,1.35,2.24,0,1,0,0,0,1,,63,3,,0,12,8,6,last,Day,False,False,False
+359,0,2.7,Manchester United,3.5,Chelsea,2.7,2.06,1.65,1,1,1,0,1,0,11,43,8,,6,11,4,6,last,Day,False,False,False
+360,2,1.66,Everton,4.0,Burnley,5.75,1.72,0.94,2,0,2,0,0,0,"17,20",,16,,8,6,2,1,last,Night,False,False,False
+361,1,4.0,AFC Bournemouth,4.0,Tottenham Hotspur,1.9,1.44,1.83,1,0,0,1,0,0,90'1,,14,,10,9,6,6,last,Day,True,False,True
+362,3,2.3,West Ham United,3.75,Southampton,3.1,1.56,0.89,3,0,1,2,0,0,"16,69,72",,13,,2,5,2,7,last,Day,False,False,False
+363,1,1.53,Wolverhampton Wanderers,4.2,Fulham,7.5,1.72,0.28,1,0,0,1,0,0,75,,16,,7,6,3,1,last,Day,False,False,False
+364,-1,2.6,Cardiff City,3.75,Crystal Palace,2.7,1.11,1.44,2,3,1,1,2,1,"31,90","28,39,70",15,9.0,10,15,8,5,last,Day,True,False,True
+365,-1,9.5,Newcastle United,5.25,Liverpool,1.36,1.39,2.28,2,3,1,1,2,1,"20,54","13,28,86",11,,2,11,5,3,last,Night,False,True,True
+366,3,1.4,Chelsea,5.25,Watford,8.0,2.17,1.28,3,0,0,3,0,0,"48,51,75",,16,,6,14,4,6,last,Day,False,False,False
+367,0,11.0,Huddersfield Town,6.0,Manchester United,1.3,0.44,1.61,1,1,0,1,1,0,60,8,6,,3,17,8,7,last,Day,False,False,False
+368,0,1.4,Arsenal,5.0,Brighton & Hove Albion,9.0,2.44,0.67,1,1,1,0,0,1,9,61,14,9.0,16,10,6,3,last,Day,False,False,False
+369,1,1.12,Manchester City,8.5,Leicester City,17.0,2.83,1.39,1,0,0,1,0,0,70,,16,6.0,11,5,3,0,last,Night,False,False,False
+370,-3,19.0,Brighton & Hove Albion,8.5,Manchester City,1.16,1.28,2.28,1,4,1,0,2,2,27,"28,38,63,72",6,3.0,2,13,10,6,last,Day,False,False,False
+371,-2,3.25,Burnley,3.8,Arsenal,2.2,1.28,1.22,1,3,0,1,0,3,65,"52,63,90'4",12,,4,11,7,5,last,Day,False,True,True
+372,2,1.9,Crystal Palace,4.2,AFC Bournemouth,3.8,0.94,0.89,5,3,3,2,1,2,"24,32,37,65,80","45,56,73",16,9.0,4,15,9,4,last,Day,True,False,True
+373,-4,2.5,Fulham,3.6,Newcastle United,2.9,1.17,0.94,0,4,0,0,2,2,,"9,11,61,90",11,3.0,5,13,7,5,last,Day,False,True,True
+374,0,2.4,Leicester City,3.75,Chelsea,2.9,1.44,1.61,0,0,0,0,0,0,,,8,4.0,4,12,5,5,last,Day,False,False,False
+375,2,1.3,Liverpool,6.0,Wolverhampton Wanderers,11.0,2.78,1.28,2,0,1,1,0,0,"17,81",,11,,4,7,3,1,last,Day,True,False,True
+376,-2,1.28,Manchester United,6.5,Cardiff City,11.0,2.0,0.61,0,2,0,0,1,1,,"23,54",21,11.0,11,11,5,2,last,Day,False,False,False
+377,0,1.44,Southampton,4.75,Huddersfield Town,8.5,1.22,0.33,1,1,1,0,0,1,41,55,7,,4,8,4,3,last,Day,False,False,False
+378,0,2.2,Tottenham Hotspur,3.5,Everton,3.5,2.06,1.06,2,2,1,1,0,2,"3,75","69,72",9,4.0,7,13,10,4,last,Day,False,False,False
+379,-3,2.25,Watford,3.75,West Ham United,3.2,1.5,1.0,1,4,0,1,2,2,46,"15,39,71,78",11,,7,15,10,2,last,Day,False,False,False
