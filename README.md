@@ -13,26 +13,26 @@ O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para
 - Visualize as técnicas aplicadas e os resultados obtidos.
 
 ## Roteiro de Visualização 📅
-1. [Coletar dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/extracting-data.ipynb)
+1. Coletar dados
 
-2. Realizar pre processamento dos dados:
+2. Etapas realizadas:
    
     2.0 [Sujar os Dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/dirtyingdata.ipynb)
 
-    2.1 [Definição de Tipos](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/normalization.ipynb)
+    2.1 [Ajustando data set para trabalho](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/extracting-data.ipynb)
 
-    2.2 [Tratamento de Dados Ausentes](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/inputingemptydata.ipynb)
+    2.2 [Estatisticas Descritvas dos Dados com Vizualizações e discretização](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/vizualization.ipynb)
 
-    2.3 [Normalização e Discretização](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/normalization.ipynb)
+    2.3 [Detecção de outliers](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/outlier-detection.ipynb)
 
-    2.4 [Limpeza de Dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/outlier-detection.ipynb)
+    2.4 [Realizar Teste de Hipoteses para Comparação de Categorias e Vizualizar Diferenças](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/hipotesys_test/true_hypotesys_test.ipynb)
 
-4. [Apresentar Estatisticas Descritvas dos Dados com Vizualizações](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/vizualization.ipynb)
+    2.5 [Normalização](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/normalization.ipynb)
 
-5. [Realizar Teste de Hipoteses para Comparação de Categorias e Vizualizar Diferenças](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/hipotesys_test/true_hypotesys_test.ipynb)
+    2.6 [Tratamento de Dados Ausentes](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/inputingemptydata.ipynb)
 
-6. Bônus:    
-    5.1 Integrar Dados ou Extrair da Web ✅
+3. Bônus:    
+    5.1 Integrar Dados ✅
 
     5.2 Utilizar Tecnicas nao Cobertas na Aula ✅
 
