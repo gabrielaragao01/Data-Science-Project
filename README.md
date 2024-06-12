@@ -12,9 +12,33 @@ O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para
 - Carregue o notebook do projeto clonado.
 - Visualize as técnicas aplicadas e os resultados obtidos.
 
+## Roteiro de Visualização 📅
+1. [Coletar dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/extracting-data.ipynb)
+
+2. Realizar pre processamento dos dados:
+   
+    2.0 [Sujar os Dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/dirtyingdata.ipynb)
+
+    2.1 [Definição de Tipos](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/normalization.ipynb)
+
+    2.2 [Tratamento de Dados Ausentes](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/inputingemptydata.ipynb)
+
+    2.3 [Normalização e Discretização](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/pre_processing_data/normalization.ipynb)
+
+    2.4 [Limpeza de Dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/outlier-detection.ipynb)
+
+4. [Apresentar estatisticas descritvas dos dados com vizualizações](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/vizualization.ipynb)
+
+5. [Realizar teste de Hipoteses para Comparação de Categorias e Vizualizar Diferenças](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/hipotesys_test/true_hypotesys_test.ipynb)
+
+6. Bônus:    
+    5.1 integrar dadados ou extrair da web ✅
+
+    5.2 utilizar tecnicas nao cobertas na aula ✅
+
 ## Contribuidores 🤓
- - Gabriel Aragão 
- - Diogo Nogueira 
+ - Gabriel Aragão Correia de Araújo
+ - Diogo Nogueira Lima
 
 ## Professor 📏
  - Luciano de Andrade Barbosa 
