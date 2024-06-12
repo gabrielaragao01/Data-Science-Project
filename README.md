@@ -19,7 +19,7 @@ O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para
    
     2.0 [Sujar os Dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/dirtyingdata.ipynb)
 
-    2.1 [Ajustando data set para trabalho](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/extracting-data.ipynb)
+    2.1 [Ajustando data set para trabalho e discretização](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/first-steps/extracting-data.ipynb)
 
     2.2 [Estatisticas Descritvas dos Dados com Vizualizações e discretização](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/vizualization.ipynb)
 
