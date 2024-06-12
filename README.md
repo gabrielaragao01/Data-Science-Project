@@ -27,14 +27,14 @@ O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para
 
     2.4 [Limpeza de Dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/outlier-detection.ipynb)
 
-4. [Apresentar estatisticas descritvas dos dados com vizualizações](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/vizualization.ipynb)
+4. [Apresentar Estatisticas Descritvas dos Dados com Vizualizações](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/descriptive_statistics/vizualization.ipynb)
 
-5. [Realizar teste de Hipoteses para Comparação de Categorias e Vizualizar Diferenças](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/hipotesys_test/true_hypotesys_test.ipynb)
+5. [Realizar Teste de Hipoteses para Comparação de Categorias e Vizualizar Diferenças](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/hipotesys_test/true_hypotesys_test.ipynb)
 
 6. Bônus:    
-    5.1 integrar dadados ou extrair da web ✅
+    5.1 Integrar Dados ou Extrair da Web ✅
 
-    5.2 utilizar tecnicas nao cobertas na aula ✅
+    5.2 Utilizar Tecnicas nao Cobertas na Aula ✅
 
 ## Contribuidores 🤓
  - Gabriel Aragão Correia de Araújo
