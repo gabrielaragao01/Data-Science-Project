@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/6d41c76a888840f68750e2ebcb765fdd/artifacts
+end_time: 1720491759267
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: 6d41c76a888840f68750e2ebcb765fdd
+run_name: nosy-turtle-162
+run_uuid: 6d41c76a888840f68750e2ebcb765fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491754764
+status: 3
+tags: []
+user_id: diogo

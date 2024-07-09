@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/c234fc5e02ea483496305942f9cf3f62/artifacts
+end_time: 1720491754757
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: c234fc5e02ea483496305942f9cf3f62
+run_name: casual-goat-924
+run_uuid: c234fc5e02ea483496305942f9cf3f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491752172
+status: 3
+tags: []
+user_id: diogo

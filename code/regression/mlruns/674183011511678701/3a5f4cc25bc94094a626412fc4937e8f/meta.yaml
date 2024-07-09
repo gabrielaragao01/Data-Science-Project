@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/3a5f4cc25bc94094a626412fc4937e8f/artifacts
+end_time: 1720491521267
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: 3a5f4cc25bc94094a626412fc4937e8f
+run_name: powerful-shrike-466
+run_uuid: 3a5f4cc25bc94094a626412fc4937e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491507315
+status: 3
+tags: []
+user_id: diogo

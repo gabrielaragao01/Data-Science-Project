@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/8ff76e1c946245a3b9065857b83f2c98/artifacts
+end_time: 1720491504841
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: 8ff76e1c946245a3b9065857b83f2c98
+run_name: burly-carp-507
+run_uuid: 8ff76e1c946245a3b9065857b83f2c98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491502505
+status: 3
+tags: []
+user_id: diogo

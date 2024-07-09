@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/f1d072f3632848a2b6031a8a6dfeecf8/artifacts
+end_time: 1720490224820
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: f1d072f3632848a2b6031a8a6dfeecf8
+run_name: gifted-shad-271
+run_uuid: f1d072f3632848a2b6031a8a6dfeecf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720490221097
+status: 3
+tags: []
+user_id: diogo

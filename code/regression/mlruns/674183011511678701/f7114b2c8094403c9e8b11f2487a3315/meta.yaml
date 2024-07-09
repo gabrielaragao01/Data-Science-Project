@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/f7114b2c8094403c9e8b11f2487a3315/artifacts
+end_time: 1720491749629
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: f7114b2c8094403c9e8b11f2487a3315
+run_name: caring-donkey-909
+run_uuid: f7114b2c8094403c9e8b11f2487a3315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491747013
+status: 3
+tags: []
+user_id: diogo

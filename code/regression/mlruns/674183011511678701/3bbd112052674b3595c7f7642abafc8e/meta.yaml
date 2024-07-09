@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/3bbd112052674b3595c7f7642abafc8e/artifacts
+end_time: 1720491015630
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: 3bbd112052674b3595c7f7642abafc8e
+run_name: spiffy-cow-275
+run_uuid: 3bbd112052674b3595c7f7642abafc8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491000986
+status: 3
+tags: []
+user_id: diogo

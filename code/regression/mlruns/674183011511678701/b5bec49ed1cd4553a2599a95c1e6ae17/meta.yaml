@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/b5bec49ed1cd4553a2599a95c1e6ae17/artifacts
+end_time: 1720491308723
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: b5bec49ed1cd4553a2599a95c1e6ae17
+run_name: worried-hare-366
+run_uuid: b5bec49ed1cd4553a2599a95c1e6ae17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491306307
+status: 3
+tags: []
+user_id: diogo

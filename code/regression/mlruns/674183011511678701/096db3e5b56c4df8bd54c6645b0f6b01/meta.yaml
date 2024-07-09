@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/096db3e5b56c4df8bd54c6645b0f6b01/artifacts
+end_time: 1720491447813
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: 096db3e5b56c4df8bd54c6645b0f6b01
+run_name: resilient-lark-185
+run_uuid: 096db3e5b56c4df8bd54c6645b0f6b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491443304
+status: 3
+tags: []
+user_id: diogo

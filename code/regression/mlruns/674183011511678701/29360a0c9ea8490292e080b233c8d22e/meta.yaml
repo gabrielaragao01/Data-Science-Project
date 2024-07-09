@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/674183011511678701/29360a0c9ea8490292e080b233c8d22e/artifacts
+end_time: 1720490224820
+entry_point_name: ''
+experiment_id: '674183011511678701'
+lifecycle_stage: active
+run_id: 29360a0c9ea8490292e080b233c8d22e
+run_name: unique-horse-640
+run_uuid: 29360a0c9ea8490292e080b233c8d22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720490221097
+status: 3
+tags: []
+user_id: diogo

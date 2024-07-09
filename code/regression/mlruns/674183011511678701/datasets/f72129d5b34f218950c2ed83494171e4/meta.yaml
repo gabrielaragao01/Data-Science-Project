@@ -1,0 +1,20 @@
+digest: 3ba38dae
+name: dataset
+profile: '{"num_rows": 266, "num_elements": 4256}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "result", "required": true},
+  {"type": "double", "name": "performance_rank_home", "required": true}, {"type":
+  "double", "name": "away_performance_rank", "required": true}, {"type": "double",
+  "name": "Pre-Match PPG (Home)", "required": true}, {"type": "double", "name": "Pre-Match
+  PPG (Away)", "required": true}, {"type": "double", "name": "home_team_goal_count",
+  "required": true}, {"type": "double", "name": "away_team_goal_count", "required":
+  true}, {"type": "double", "name": "home_team_shots", "required": true}, {"type":
+  "double", "name": "home_team_shots_on_target_original", "required": true}, {"type":
+  "double", "name": "home_team_corner_count", "required": true}, {"type": "double",
+  "name": "away_team_shots", "required": true}, {"type": "double", "name": "away_team_shots_on_target",
+  "required": true}, {"type": "double", "name": "away_team_corner_count", "required":
+  true}, {"type": "double", "name": "home_season_shots", "required": true}, {"type":
+  "double", "name": "home_season_shots_on_target", "required": true}, {"type": "double",
+  "name": "home_team_possession", "required": true}]}'
+source: '{"tags": {"mlflow.user": "diogo", "mlflow.source.name": "c:\\Users\\diogo\\anaconda3.0\\envs\\statistics_book\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
