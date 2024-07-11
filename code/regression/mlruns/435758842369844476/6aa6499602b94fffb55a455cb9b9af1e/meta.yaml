@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/435758842369844476/6aa6499602b94fffb55a455cb9b9af1e/artifacts
+end_time: 1720725431676
+entry_point_name: ''
+experiment_id: '435758842369844476'
+lifecycle_stage: active
+run_id: 6aa6499602b94fffb55a455cb9b9af1e
+run_name: melodic-bird-514
+run_uuid: 6aa6499602b94fffb55a455cb9b9af1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720725429049
+status: 3
+tags: []
+user_id: diogo

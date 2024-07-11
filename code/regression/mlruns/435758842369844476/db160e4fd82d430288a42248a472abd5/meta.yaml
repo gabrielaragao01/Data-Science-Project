@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/435758842369844476/db160e4fd82d430288a42248a472abd5/artifacts
+end_time: 1720725429043
+entry_point_name: ''
+experiment_id: '435758842369844476'
+lifecycle_stage: active
+run_id: db160e4fd82d430288a42248a472abd5
+run_name: marvelous-ant-499
+run_uuid: db160e4fd82d430288a42248a472abd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720725426769
+status: 3
+tags: []
+user_id: diogo

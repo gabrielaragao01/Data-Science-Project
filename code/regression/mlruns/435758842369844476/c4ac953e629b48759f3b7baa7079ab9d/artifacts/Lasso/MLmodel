@@ -1,0 +1,20 @@
+artifact_path: Lasso
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.14.2
+model_size_bytes: 1044
+model_uuid: 288d038135714fc087b35bd3fee7cf78
+run_id: c4ac953e629b48759f3b7baa7079ab9d
+utc_time_created: '2024-07-11 19:17:02.109827'
