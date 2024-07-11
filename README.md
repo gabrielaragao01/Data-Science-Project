@@ -12,7 +12,7 @@ O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para
 - Carregue o notebook do projeto clonado.
 - Visualize as técnicas aplicadas e os resultados obtidos.
 
-## Roteiro de Visualização 📅
+## Roteiro de Visualização Parte 1 📅
 1. Coletar dados
 
 2. Etapas realizadas:
@@ -35,6 +35,10 @@ O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para
     5.1 Integrar Dados ✅
 
     5.2 Utilizar Tecnicas nao Cobertas na Aula ✅
+
+## Roteiro de Visualização Parte 2 📅
+
+1. [Modelo de Regressão dos Dados](https://github.com/gabrielaragao01/Data-Science-Project/blob/main/code/regression/probability_win_prediction.ipynb)
 
 ## Contribuidores 🤓
  - Gabriel Aragão Correia de Araújo
