@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\diogo\repositorios\semester5\data_science\Data-Science-Project\code\regression\mlruns/402440464503555585/828fdd2051d44ecdaa90c7060764a1a1/artifacts
+end_time: 1720745011320
+entry_point_name: ''
+experiment_id: '402440464503555585'
+lifecycle_stage: active
+run_id: 828fdd2051d44ecdaa90c7060764a1a1
+run_name: overjoyed-donkey-31
+run_uuid: 828fdd2051d44ecdaa90c7060764a1a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720745004812
+status: 3
+tags: []
+user_id: diogo
