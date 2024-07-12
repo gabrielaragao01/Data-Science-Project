@@ -12,6 +12,10 @@ O objetivo deste projeto é aplicar as técnicas aprendidas em sala de aula para
 - Carregue o notebook do projeto clonado.
 - Visualize as técnicas aplicadas e os resultados obtidos.
 
+## Link do Vídeo :arrow_forward:
+- https://drive.google.com/file/d/15qcL7RaVjsNbRccxss8G4Y_oGCSCt9g8/view?usp=sharing
+- "Ajustar a qualidade para melhor visualização"
+
 ## Roteiro de Visualização Parte 1 📅
 1. Coletar dados
 
